@@ -1,0 +1,305 @@
+{
+    "apple pie": {
+        "parent_class": "Desserts"
+    },
+    "baby back ribs": {
+        "parent_class": "Appetizers or main courses"
+    },
+    "baklava": {
+        "parent_class": "Desserts or pastries"
+    },
+    "beef carpaccio": {
+        "parent_class": "Appetizers or Starters"
+    },
+    "beef tartare": {
+        "parent_class": "Appetizer or starter"
+    },
+    "beet salad": {
+        "parent_class": "Side dish or salad"
+    },
+    "beignets": {
+        "parent_class": "Pastries or desserts"
+    },
+    "bibimbap": {
+        "parent_class": "Mixed rice bowl"
+    },
+    "bread pudding": {
+        "parent_class": "Dessert"
+    },
+    "breakfast burrito": {
+        "parent_class": "Breakfast section"
+    },
+    "bruschetta": {
+        "parent_class": "Appetizers or starters"
+    },
+    "caesar salad": {
+        "parent_class": "Salads section"
+    },
+    "cannoli": {
+        "parent_class": "Desserts or pastries"
+    },
+    "caprese salad": {
+        "parent_class": "Appetizers or salads"
+    },
+    "carrot cake": {
+        "parent_class": "Dessert or sweet treat"
+    },
+    "ceviche": {
+        "parent_class": "Seafood or appetizer section."
+    },
+    "cheese plate": {
+        "parent_class": "Cheese board"
+    },
+    "cheesecake": {
+        "parent_class": "Dessert or sweet treat"
+    },
+    "chicken curry": {
+        "parent_class": "Main course"
+    },
+    "chicken quesadilla": {
+        "parent_class": "Mexican appetizers or entrees"
+    },
+    "chicken wings": {
+        "parent_class": "Appetizers or snacks"
+    },
+    "chocolate cake": {
+        "parent_class": "Desserts or sweets"
+    },
+    "chocolate mousse": {
+        "parent_class": "Dessert"
+    },
+    "churros": {
+        "parent_class": "Desserts or snacks"
+    },
+    "clam chowder": {
+        "parent_class": "Soup"
+    },
+    "club sandwich": {
+        "parent_class": "Sandwiches or Main Courses"
+    },
+    "crab cakes": {
+        "parent_class": "Appetizers or seafood"
+    },
+    "creme brulee": {
+        "parent_class": "Dessert"
+    },
+    "croque madame": {
+        "parent_class": "Sandwiches or brunch dishes"
+    },
+    "cup cakes": {
+        "parent_class": "Desserts or pastries"
+    },
+    "deviled eggs": {
+        "parent_class": "Appetizers or sides"
+    },
+    "donuts": {
+        "parent_class": "Breakfast pastries"
+    },
+    "dumplings": {
+        "parent_class": "Steamed, fried, boiled"
+    },
+    "edamame": {
+        "parent_class": "Appetizers or sides"
+    },
+    "eggs benedict": {
+        "parent_class": "Breakfast or brunch"
+    },
+    "escargots": {
+        "parent_class": "Appetizers or starters"
+    },
+    "falafel": {
+        "parent_class": "Appetizers or sandwiches"
+    },
+    "filet mignon": {
+        "parent_class": "Steak section"
+    },
+    "fish and chips": {
+        "parent_class": "Seafood section"
+    },
+    "foie gras": {
+        "parent_class": "Delicacy or appetizer"
+    },
+    "french fries": {
+        "parent_class": "Side dishes"
+    },
+    "french onion soup": {
+        "parent_class": "Soups and starters"
+    },
+    "french toast": {
+        "parent_class": "Breakfast or brunch section"
+    },
+    "fried calamari": {
+        "parent_class": "Appetizers or seafood section"
+    },
+    "fried rice": {
+        "parent_class": "Side dishes"
+    },
+    "frozen yogurt": {
+        "parent_class": "Desserts or frozen treats"
+    },
+    "garlic bread": {
+        "parent_class": "Appetizers or sides"
+    },
+    "gnocchi": {
+        "parent_class": "Pasta or potato dish"
+    },
+    "greek salad": {
+        "parent_class": "Salads or Mediterranean dishes"
+    },
+    "grilled cheese sandwich": {
+        "parent_class": "Sandwiches"
+    },
+    "grilled salmon": {
+        "parent_class": "Seafood or main course"
+    },
+    "guacamole": {
+        "parent_class": "Dip or side dish"
+    },
+    "gyoza": {
+        "parent_class": "Appetizers or sides"
+    },
+    "hamburger": {
+        "parent_class": "Sandwiches or entrees"
+    },
+    "hot and sour soup": {
+        "parent_class": "Soup"
+    },
+    "hot dog": {
+        "parent_class": "Sandwiches or entrees"
+    },
+    "huevos rancheros": {
+        "parent_class": "Breakfast or brunch"
+    },
+    "hummus": {
+        "parent_class": "Dip or spread"
+    },
+    "ice cream": {
+        "parent_class": "Desserts or sweets"
+    },
+    "lasagna": {
+        "parent_class": "Pasta or main course"
+    },
+    "lobster bisque": {
+        "parent_class": "Soup"
+    },
+    "lobster roll sandwich": {
+        "parent_class": "Seafood sandwich"
+    },
+    "macaroni and cheese": {
+        "parent_class": "Pasta or side dish"
+    },
+    "macarons": {
+        "parent_class": "Pastries or desserts"
+    },
+    "miso soup": {
+        "parent_class": "Soup section"
+    },
+    "mussels": {
+        "parent_class": "Shellfish"
+    },
+    "nachos": {
+        "parent_class": "Appetizers or snacks"
+    },
+    "omelette": {
+        "parent_class": "Breakfast or egg dishes"
+    },
+    "onion rings": {
+        "parent_class": "Appetizers or sides"
+    },
+    "oysters": {
+        "parent_class": "Raw, grilled, fried, baked"
+    },
+    "pad thai": {
+        "parent_class": "Noodles or Thai dishes"
+    },
+    "paella": {
+        "parent_class": "Rice dish with seafood"
+    },
+    "pancakes": {
+        "parent_class": "Breakfast items"
+    },
+    "panna cotta": {
+        "parent_class": "Dessert"
+    },
+    "peking duck": {
+        "parent_class": "Chinese main dish"
+    },
+    "pho": {
+        "parent_class": "Soups or Noodle Soups"
+    },
+    "pizza": {
+        "parent_class": "Main course or appetizer"
+    },
+    "pork chop": {
+        "parent_class": "Meat entrees"
+    },
+    "poutine": {
+        "parent_class": "Fries and gravy section"
+    },
+    "prime rib": {
+        "parent_class": "Steak section"
+    },
+    "pulled pork sandwich": {
+        "parent_class": "Barbecue or sandwiches"
+    },
+    "ramen": {
+        "parent_class": "Noodles or Asian dishes"
+    },
+    "ravioli": {
+        "parent_class": "Pasta or main dishes"
+    },
+    "red velvet cake": {
+        "parent_class": "Desserts or cakes"
+    },
+    "risotto": {
+        "parent_class": "Rice dish"
+    },
+    "samosa": {
+        "parent_class": "Appetizers or snacks"
+    },
+    "sashimi": {
+        "parent_class": "Raw fish selection"
+    },
+    "scallops": {
+        "parent_class": "Seafood section"
+    },
+    "seaweed salad": {
+        "parent_class": "Side dish or appetizer"
+    },
+    "shrimp and grits": {
+        "parent_class": "Southern comfort food"
+    },
+    "spaghetti bolognese": {
+        "parent_class": "Pasta dishes"
+    },
+    "spaghetti carbonara": {
+        "parent_class": "Pasta dishes"
+    },
+    "spring rolls": {
+        "parent_class": "Appetizers or starters"
+    },
+    "steak": {
+        "parent_class": "Beef, poultry, seafood, vegetarian"
+    },
+    "strawberry shortcake": {
+        "parent_class": "Desserts or cakes"
+    },
+    "sushi": {
+        "parent_class": "Raw, cooked, vegetarian"
+    },
+    "tacos": {
+        "parent_class": "Mexican street food"
+    },
+    "takoyaki": {
+        "parent_class": "Appetizers or snacks"
+    },
+    "tiramisu": {
+        "parent_class": "Desserts"
+    },
+    "tuna tartare": {
+        "parent_class": "Appetizers or small plates"
+    },
+    "waffles": {
+        "parent_class": "Breakfast or dessert"
+    }
+}

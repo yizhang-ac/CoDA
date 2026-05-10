@@ -1,0 +1,113 @@
+{
+    "abyssinian": {
+        "parent_class": "Cat"
+    },
+    "american bulldog": {
+        "parent_class": "Dog"
+    },
+    "american pit bull terrier": {
+        "parent_class": "Dog"
+    },
+    "basset hound": {
+        "parent_class": "Dog"
+    },
+    "beagle": {
+        "parent_class": "Dog"
+    },
+    "bengal": {
+        "parent_class": "Cat"
+    },
+    "birman": {
+        "parent_class": "Cat"
+    },
+    "bombay": {
+        "parent_class": "Cat"
+    },
+    "boxer": {
+        "parent_class": "Dog"
+    },
+    "british shorthair": {
+        "parent_class": "Cat"
+    },
+    "chihuahua": {
+        "parent_class": "Dog"
+    },
+    "egyptian mau": {
+        "parent_class": "Cat"
+    },
+    "english cocker spaniel": {
+        "parent_class": "Dog"
+    },
+    "english setter": {
+        "parent_class": "Dog"
+    },
+    "german shorthaired": {
+        "parent_class": "Dog"
+    },
+    "great pyrenees": {
+        "parent_class": "Dog"
+    },
+    "havanese": {
+        "parent_class": "Dog"
+    },
+    "japanese chin": {
+        "parent_class": "Dog"
+    },
+    "keeshond": {
+        "parent_class": "Dog"
+    },
+    "leonberger": {
+        "parent_class": "Dog"
+    },
+    "maine coon": {
+        "parent_class": "Cat"
+    },
+    "miniature pinscher": {
+        "parent_class": "Dog"
+    },
+    "newfoundland": {
+        "parent_class": "Dog"
+    },
+    "persian": {
+        "parent_class": "Cat"
+    },
+    "pomeranian": {
+        "parent_class": "Dog"
+    },
+    "pug": {
+        "parent_class": "Dog"
+    },
+    "ragdoll": {
+        "parent_class": "Cat"
+    },
+    "russian blue": {
+        "parent_class": "Cat"
+    },
+    "saint bernard": {
+        "parent_class": "Dog"
+    },
+    "samoyed": {
+        "parent_class": "Dog"
+    },
+    "scottish terrier": {
+        "parent_class": "Dog"
+    },
+    "shiba inu": {
+        "parent_class": "Dog"
+    },
+    "siamese": {
+        "parent_class": "Cat"
+    },
+    "sphynx": {
+        "parent_class": "Cat"
+    },
+    "staffordshire bull terrier": {
+        "parent_class": "Dog"
+    },
+    "wheaten terrier": {
+        "parent_class": "Dog"
+    },
+    "yorkshire terrier": {
+        "parent_class": "Dog"
+    }
+}

@@ -1,0 +1,1193 @@
+{
+    "abbey": {
+        "parent_class": "Religious building"
+    },
+    "airplane cabin": {
+        "parent_class": "Transportation interior"
+    },
+    "airport terminal": {
+        "parent_class": "Transportation hub"
+    },
+    "alley": {
+        "parent_class": "Urban or rural passageway"
+    },
+    "amphitheater": {
+        "parent_class": "Outdoor performance venue"
+    },
+    "amusement arcade": {
+        "parent_class": "Entertainment and leisure venue"
+    },
+    "amusement park": {
+        "parent_class": "Outdoor entertainment venue"
+    },
+    "anechoic chamber": {
+        "parent_class": "Laboratory or testing facility"
+    },
+    "outdoor apartment building": {
+        "parent_class": "Urban residential complex"
+    },
+    "indoor apse": {
+        "parent_class": "Religious or ceremonial space"
+    },
+    "aquarium": {
+        "parent_class": "Aquatic habitat display"
+    },
+    "aqueduct": {
+        "parent_class": "Ancient Roman Infrastructure"
+    },
+    "arch": {
+        "parent_class": "Urban or natural landscape"
+    },
+    "archive": {
+        "parent_class": "Library or storage facility"
+    },
+    "outdoor arrival gate": {
+        "parent_class": "Airport Arrival Gate"
+    },
+    "art gallery": {
+        "parent_class": "Museum or gallery"
+    },
+    "art school": {
+        "parent_class": "Urban or campus setting"
+    },
+    "art studio": {
+        "parent_class": "Creative workspace"
+    },
+    "assembly line": {
+        "parent_class": "Industrial Manufacturing"
+    },
+    "outdoor athletic field": {
+        "parent_class": "Sports and recreation area"
+    },
+    "public atrium": {
+        "parent_class": "Indoor public space"
+    },
+    "attic": {
+        "parent_class": "Storage or abandoned space"
+    },
+    "auditorium": {
+        "parent_class": "Performance or lecture venue"
+    },
+    "auto factory": {
+        "parent_class": "Industrial Manufacturing Facility"
+    },
+    "badlands": {
+        "parent_class": "Desert landscape"
+    },
+    "indoor badminton court": {
+        "parent_class": "Indoor sports facility"
+    },
+    "baggage claim": {
+        "parent_class": "Airport arrival area"
+    },
+    "shop bakery": {
+        "parent_class": "Bakery shop interior"
+    },
+    "exterior balcony": {
+        "parent_class": "Outdoor Living Space"
+    },
+    "interior balcony": {
+        "parent_class": "Interior architectural feature"
+    },
+    "ball pit": {
+        "parent_class": "Play area for children"
+    },
+    "ballroom": {
+        "parent_class": "Social gathering and dance"
+    },
+    "bamboo forest": {
+        "parent_class": "Forest"
+    },
+    "banquet hall": {
+        "parent_class": "Event Venue"
+    },
+    "bar": {
+        "parent_class": "Urban nightlife"
+    },
+    "barn": {
+        "parent_class": "Rural agricultural setting"
+    },
+    "barndoor": {
+        "parent_class": "Rural or farm setting"
+    },
+    "baseball field": {
+        "parent_class": "Outdoor sports venue"
+    },
+    "basement": {
+        "parent_class": "Underground or Subterranean"
+    },
+    "basilica": {
+        "parent_class": "Religious building"
+    },
+    "outdoor basketball court": {
+        "parent_class": "Sports and recreation"
+    },
+    "bathroom": {
+        "parent_class": "Personal hygiene space"
+    },
+    "batters box": {
+        "parent_class": "Sports field"
+    },
+    "bayou": {
+        "parent_class": "Wetland swamp scene"
+    },
+    "indoor bazaar": {
+        "parent_class": "Indoor market"
+    },
+    "outdoor bazaar": {
+        "parent_class": "Outdoor market scene"
+    },
+    "beach": {
+        "parent_class": "Coastal landscape"
+    },
+    "beauty salon": {
+        "parent_class": "Personal Care Services"
+    },
+    "bedroom": {
+        "parent_class": "Bedroom"
+    },
+    "berth": {
+        "parent_class": "Marine, terrestrial, aerial, subterranean, space"
+    },
+    "biology laboratory": {
+        "parent_class": "Research and experimentation facility"
+    },
+    "indoor bistro": {
+        "parent_class": "Indoor dining scene"
+    },
+    "boardwalk": {
+        "parent_class": "Coastal recreation area"
+    },
+    "boat deck": {
+        "parent_class": "Maritime or coastal setting"
+    },
+    "boathouse": {
+        "parent_class": "Marine or waterfront structure"
+    },
+    "bookstore": {
+        "parent_class": "Retail and leisure space"
+    },
+    "indoor booth": {
+        "parent_class": "Trade show or exhibition"
+    },
+    "botanical garden": {
+        "parent_class": "Botanical Garden"
+    },
+    "indoor bow window": {
+        "parent_class": "Interior architectural feature"
+    },
+    "outdoor bow window": {
+        "parent_class": "Outdoor architectural feature"
+    },
+    "bowling alley": {
+        "parent_class": "Recreation and entertainment"
+    },
+    "boxing ring": {
+        "parent_class": "Sports competition venue"
+    },
+    "indoor brewery": {
+        "parent_class": "Industrial or Commercial Interior"
+    },
+    "bridge": {
+        "parent_class": "Road, river, or ravine crossing"
+    },
+    "building facade": {
+        "parent_class": "Urban, rural, natural, industrial, historical"
+    },
+    "bullring": {
+        "parent_class": "Sports and entertainment venue"
+    },
+    "burial chamber": {
+        "parent_class": "Tomb or crypt interior"
+    },
+    "bus interior": {
+        "parent_class": "Public transportation"
+    },
+    "butchers shop": {
+        "parent_class": "Food retail establishment"
+    },
+    "butte": {
+        "parent_class": "Desert or mesa landscape"
+    },
+    "outdoor cabin": {
+        "parent_class": "Rustic Wilderness Retreat"
+    },
+    "cafeteria": {
+        "parent_class": "Dining and social gathering"
+    },
+    "campsite": {
+        "parent_class": "Forest, Beach, Mountain, Desert, Urban"
+    },
+    "campus": {
+        "parent_class": "Academic or educational setting"
+    },
+    "natural canal": {
+        "parent_class": "Waterway in natural landscape"
+    },
+    "urban canal": {
+        "parent_class": "Urban waterway landscape"
+    },
+    "candy store": {
+        "parent_class": "Retail food establishment"
+    },
+    "canyon": {
+        "parent_class": "Desert or mountainous landscape"
+    },
+    "backseat car interior": {
+        "parent_class": "Automotive Interior"
+    },
+    "frontseat car interior": {
+        "parent_class": "Automotive Interior"
+    },
+    "carrousel": {
+        "parent_class": "Amusement park ride"
+    },
+    "indoor casino": {
+        "parent_class": "Gambling establishment interior"
+    },
+    "castle": {
+        "parent_class": "Fortress in natural landscape"
+    },
+    "catacomb": {
+        "parent_class": "Underground burial chambers"
+    },
+    "indoor cathedral": {
+        "parent_class": "Religious interior"
+    },
+    "outdoor cathedral": {
+        "parent_class": "Religious outdoor structure"
+    },
+    "indoor cavern": {
+        "parent_class": "Underground"
+    },
+    "cemetery": {
+        "parent_class": "Burial Grounds"
+    },
+    "chalet": {
+        "parent_class": "Mountain or Alpine"
+    },
+    "cheese factory": {
+        "parent_class": "Industrial food production facility"
+    },
+    "chemistry lab": {
+        "parent_class": "Laboratory"
+    },
+    "indoor chicken coop": {
+        "parent_class": "Livestock housing"
+    },
+    "outdoor chicken coop": {
+        "parent_class": "Farm or rural setting"
+    },
+    "childs room": {
+        "parent_class": "Bedroom"
+    },
+    "indoor church": {
+        "parent_class": "Religious interior"
+    },
+    "outdoor church": {
+        "parent_class": "Outdoor religious scene"
+    },
+    "classroom": {
+        "parent_class": "Educational setting"
+    },
+    "clean room": {
+        "parent_class": "Clean room"
+    },
+    "cliff": {
+        "parent_class": "Rocky coastal or mountainous terrain"
+    },
+    "indoor cloister": {
+        "parent_class": "Religious or architectural interior"
+    },
+    "closet": {
+        "parent_class": "Bedroom storage space"
+    },
+    "clothing store": {
+        "parent_class": "Retail shopping environment"
+    },
+    "coast": {
+        "parent_class": "Coastal landscape"
+    },
+    "cockpit": {
+        "parent_class": "Aircraft cockpit"
+    },
+    "coffee shop": {
+        "parent_class": "Urban social gathering space"
+    },
+    "computer room": {
+        "parent_class": "Data Center"
+    },
+    "conference center": {
+        "parent_class": "Business and Professional Events"
+    },
+    "conference room": {
+        "parent_class": "Meeting, Training, Presentation"
+    },
+    "construction site": {
+        "parent_class": "Industrial or outdoor worksite"
+    },
+    "control room": {
+        "parent_class": "Industrial or command center"
+    },
+    "outdoor control tower": {
+        "parent_class": "Aviation control tower"
+    },
+    "corn field": {
+        "parent_class": "Agricultural landscape"
+    },
+    "corral": {
+        "parent_class": "Livestock enclosure"
+    },
+    "corridor": {
+        "parent_class": "Interior passageway"
+    },
+    "cottage garden": {
+        "parent_class": "Rustic floral landscape"
+    },
+    "courthouse": {
+        "parent_class": "Government building"
+    },
+    "courtroom": {
+        "parent_class": "Legal proceedings setting"
+    },
+    "courtyard": {
+        "parent_class": "Courtyard Scene"
+    },
+    "exterior covered bridge": {
+        "parent_class": "Rural or natural setting"
+    },
+    "creek": {
+        "parent_class": "Natural waterway landscape"
+    },
+    "crevasse": {
+        "parent_class": "Glacial or icy terrain."
+    },
+    "crosswalk": {
+        "parent_class": "Urban Infrastructure"
+    },
+    "office cubicle": {
+        "parent_class": "Office workspace"
+    },
+    "dam": {
+        "parent_class": "Reservoir or river"
+    },
+    "delicatessen": {
+        "parent_class": "Food retail establishment"
+    },
+    "dentists office": {
+        "parent_class": "Medical or Healthcare Facility"
+    },
+    "sand desert": {
+        "parent_class": "Arid landscape"
+    },
+    "vegetation desert": {
+        "parent_class": "Desert"
+    },
+    "indoor diner": {
+        "parent_class": "Restaurant dining area"
+    },
+    "outdoor diner": {
+        "parent_class": "Outdoor dining scene"
+    },
+    "home dinette": {
+        "parent_class": "Dining room setting"
+    },
+    "vehicle dinette": {
+        "parent_class": "Recreational vehicle interior"
+    },
+    "dining car": {
+        "parent_class": "Transportation dining"
+    },
+    "dining room": {
+        "parent_class": "Formal indoor dining"
+    },
+    "discotheque": {
+        "parent_class": "Nightlife Entertainment"
+    },
+    "dock": {
+        "parent_class": "Industrial or maritime setting"
+    },
+    "outdoor doorway": {
+        "parent_class": "Outdoor entrance"
+    },
+    "dorm room": {
+        "parent_class": "College life"
+    },
+    "driveway": {
+        "parent_class": "Residential exterior"
+    },
+    "outdoor driving range": {
+        "parent_class": "Sports facility"
+    },
+    "drugstore": {
+        "parent_class": "Retail store interior"
+    },
+    "electrical substation": {
+        "parent_class": "Industrial or utility infrastructure"
+    },
+    "door elevator": {
+        "parent_class": "Transportation infrastructure"
+    },
+    "interior elevator": {
+        "parent_class": "Commercial building interior"
+    },
+    "elevator shaft": {
+        "parent_class": "Industrial or architectural interior"
+    },
+    "engine room": {
+        "parent_class": "Marine or industrial setting"
+    },
+    "indoor escalator": {
+        "parent_class": "Transportation facility"
+    },
+    "excavation": {
+        "parent_class": "Construction or archaeological site"
+    },
+    "indoor factory": {
+        "parent_class": "Industrial indoor setting"
+    },
+    "fairway": {
+        "parent_class": "Golf course"
+    },
+    "fastfood restaurant": {
+        "parent_class": "Urban dining scene"
+    },
+    "cultivated field": {
+        "parent_class": "Agricultural landscape"
+    },
+    "wild field": {
+        "parent_class": "Grassland"
+    },
+    "fire escape": {
+        "parent_class": "Urban or building emergency"
+    },
+    "fire station": {
+        "parent_class": "Urban, Wildland, Industrial, Marine, Airport"
+    },
+    "indoor firing range": {
+        "parent_class": "Indoor shooting range"
+    },
+    "fishpond": {
+        "parent_class": "Aquatic Farming Environment"
+    },
+    "indoor florist shop": {
+        "parent_class": "Retail floral environment"
+    },
+    "food court": {
+        "parent_class": "Shopping mall dining area"
+    },
+    "broadleaf forest": {
+        "parent_class": "Temperate or tropical forest"
+    },
+    "needleleaf forest": {
+        "parent_class": "Boreal or Temperate Forest"
+    },
+    "forest path": {
+        "parent_class": "Forest Trail"
+    },
+    "forest road": {
+        "parent_class": "Forest road"
+    },
+    "formal garden": {
+        "parent_class": "Formal Garden"
+    },
+    "fountain": {
+        "parent_class": "Garden or park"
+    },
+    "galley": {
+        "parent_class": "Ship or aircraft kitchen"
+    },
+    "game room": {
+        "parent_class": "Recreation and Entertainment"
+    },
+    "indoor garage": {
+        "parent_class": "Parking facility"
+    },
+    "garbage dump": {
+        "parent_class": "Waste disposal site"
+    },
+    "gas station": {
+        "parent_class": "Commercial roadside"
+    },
+    "exterior gazebo": {
+        "parent_class": "Outdoor structure"
+    },
+    "indoor general store": {
+        "parent_class": "Retail store interior"
+    },
+    "outdoor general store": {
+        "parent_class": "Outdoor retail"
+    },
+    "gift shop": {
+        "parent_class": "Tourist attraction gift shop"
+    },
+    "golf course": {
+        "parent_class": "Outdoor recreational landscape"
+    },
+    "indoor greenhouse": {
+        "parent_class": "Indoor Agriculture"
+    },
+    "outdoor greenhouse": {
+        "parent_class": "Controlled agricultural environment"
+    },
+    "indoor gymnasium": {
+        "parent_class": "Sports and recreation facility"
+    },
+    "indoor hangar": {
+        "parent_class": "Aircraft storage facility"
+    },
+    "outdoor hangar": {
+        "parent_class": "Aircraft storage facility"
+    },
+    "harbor": {
+        "parent_class": "Coastal maritime infrastructure"
+    },
+    "hayfield": {
+        "parent_class": "Rural agricultural landscape"
+    },
+    "heliport": {
+        "parent_class": "Aviation infrastructure"
+    },
+    "herb garden": {
+        "parent_class": "Outdoor cultivated landscape"
+    },
+    "highway": {
+        "parent_class": "Urban or rural landscape"
+    },
+    "hill": {
+        "parent_class": "Mountainous landscape"
+    },
+    "home office": {
+        "parent_class": "Home office"
+    },
+    "hospital": {
+        "parent_class": "Medical facility"
+    },
+    "hospital room": {
+        "parent_class": "Patient care area"
+    },
+    "hot spring": {
+        "parent_class": "Natural geothermal landscape"
+    },
+    "outdoor hot tub": {
+        "parent_class": "Relaxation in nature"
+    },
+    "outdoor hotel": {
+        "parent_class": "Resort or Lodge"
+    },
+    "hotel room": {
+        "parent_class": "Beachfront, Mountain, Urban, Resort, Historic"
+    },
+    "house": {
+        "parent_class": "Urban, suburban, rural, coastal, mountain"
+    },
+    "outdoor hunting lodge": {
+        "parent_class": "Rustic wilderness retreat"
+    },
+    "ice cream parlor": {
+        "parent_class": "Dessert shop"
+    },
+    "ice floe": {
+        "parent_class": "Arctic or Antarctic"
+    },
+    "ice shelf": {
+        "parent_class": "Floating ice platform"
+    },
+    "indoor ice skating rink": {
+        "parent_class": "Indoor sports facility"
+    },
+    "outdoor ice skating rink": {
+        "parent_class": "Recreation and sports"
+    },
+    "iceberg": {
+        "parent_class": "Polar or glacial"
+    },
+    "igloo": {
+        "parent_class": "Arctic or polar scene"
+    },
+    "industrial area": {
+        "parent_class": "Industrial zone"
+    },
+    "outdoor inn": {
+        "parent_class": "Rural lodging establishment"
+    },
+    "islet": {
+        "parent_class": "Tropical island paradise"
+    },
+    "indoor jacuzzi": {
+        "parent_class": "Luxury bathroom relaxation"
+    },
+    "indoor jail": {
+        "parent_class": "Prison confinement facility"
+    },
+    "jail cell": {
+        "parent_class": "Prison confinement scene"
+    },
+    "jewelry shop": {
+        "parent_class": "Retail store interior"
+    },
+    "kasbah": {
+        "parent_class": "Desert fortress settlement"
+    },
+    "indoor kennel": {
+        "parent_class": "Indoor pet housing"
+    },
+    "outdoor kennel": {
+        "parent_class": "Outdoor animal shelter"
+    },
+    "kindergarden classroom": {
+        "parent_class": "Educational indoor space"
+    },
+    "kitchen": {
+        "parent_class": "Cooking and food preparation"
+    },
+    "kitchenette": {
+        "parent_class": "Small kitchen or cooking area"
+    },
+    "outdoor labyrinth": {
+        "parent_class": "Outdoor maze"
+    },
+    "natural lake": {
+        "parent_class": "Freshwater body"
+    },
+    "landfill": {
+        "parent_class": "Waste disposal site"
+    },
+    "landing deck": {
+        "parent_class": "Urban, Natural, Industrial, Fantasy, Sci-Fi"
+    },
+    "laundromat": {
+        "parent_class": "Commercial service establishment"
+    },
+    "lecture room": {
+        "parent_class": "Educational or academic setting"
+    },
+    "indoor library": {
+        "parent_class": "Public indoor space"
+    },
+    "outdoor library": {
+        "parent_class": "Outdoor reading area"
+    },
+    "outdoor lido deck": {
+        "parent_class": "Outdoor recreation area"
+    },
+    "lift bridge": {
+        "parent_class": "Transportation infrastructure"
+    },
+    "lighthouse": {
+        "parent_class": "Coastal navigation aid"
+    },
+    "limousine interior": {
+        "parent_class": "Luxury vehicle interior"
+    },
+    "living room": {
+        "parent_class": "Residential interior"
+    },
+    "lobby": {
+        "parent_class": "Hotel or office lobby"
+    },
+    "lock chamber": {
+        "parent_class": "Industrial or mechanical space"
+    },
+    "locker room": {
+        "parent_class": "Athletic or sports facility"
+    },
+    "mansion": {
+        "parent_class": "Luxury residential estate"
+    },
+    "manufactured home": {
+        "parent_class": "Residential neighborhood"
+    },
+    "indoor market": {
+        "parent_class": "Indoor market scene"
+    },
+    "outdoor market": {
+        "parent_class": "Outdoor public market"
+    },
+    "marsh": {
+        "parent_class": "Wetland"
+    },
+    "martial arts gym": {
+        "parent_class": "Fitness and Recreation"
+    },
+    "mausoleum": {
+        "parent_class": "Funerary monument"
+    },
+    "medina": {
+        "parent_class": "Historic urban center"
+    },
+    "water moat": {
+        "parent_class": "Fortification or castle"
+    },
+    "outdoor monastery": {
+        "parent_class": "Religious outdoor setting"
+    },
+    "indoor mosque": {
+        "parent_class": "Religious indoor space"
+    },
+    "outdoor mosque": {
+        "parent_class": "Outdoor religious site"
+    },
+    "motel": {
+        "parent_class": "Roadside lodging"
+    },
+    "mountain": {
+        "parent_class": "Mountain landscape"
+    },
+    "mountain snowy": {
+        "parent_class": "Winter mountain landscape"
+    },
+    "indoor movie theater": {
+        "parent_class": "Entertainment venue"
+    },
+    "indoor museum": {
+        "parent_class": "Cultural or educational space"
+    },
+    "music store": {
+        "parent_class": "Retail shopping environment"
+    },
+    "music studio": {
+        "parent_class": "Music Production Environment"
+    },
+    "outdoor nuclear power plant": {
+        "parent_class": "Industrial outdoor facility"
+    },
+    "nursery": {
+        "parent_class": "Children's play area"
+    },
+    "oast house": {
+        "parent_class": "Rural agricultural landscape"
+    },
+    "outdoor observatory": {
+        "parent_class": "Astronomical Observation Site"
+    },
+    "ocean": {
+        "parent_class": "Marine"
+    },
+    "office": {
+        "parent_class": "Corporate or professional setting"
+    },
+    "office building": {
+        "parent_class": "Commercial indoor workspace"
+    },
+    "outdoor oil refinery": {
+        "parent_class": "Industrial landscape"
+    },
+    "oilrig": {
+        "parent_class": "Offshore industrial site"
+    },
+    "operating room": {
+        "parent_class": "Medical Procedure Setting"
+    },
+    "orchard": {
+        "parent_class": "Fruit tree cultivation area"
+    },
+    "outdoor outhouse": {
+        "parent_class": "Rural or wilderness setting"
+    },
+    "pagoda": {
+        "parent_class": "Religious or cultural landscape"
+    },
+    "palace": {
+        "parent_class": "Royal or ceremonial setting"
+    },
+    "pantry": {
+        "parent_class": "Kitchen or storage area"
+    },
+    "park": {
+        "parent_class": "Urban, Natural, Historical, Recreational, Botanical"
+    },
+    "indoor parking garage": {
+        "parent_class": "Indoor parking garage"
+    },
+    "outdoor parking garage": {
+        "parent_class": "Outdoor Parking Garage"
+    },
+    "parking lot": {
+        "parent_class": "Commercial or public area"
+    },
+    "parlor": {
+        "parent_class": "Social Gathering"
+    },
+    "pasture": {
+        "parent_class": "Grassland or meadow"
+    },
+    "patio": {
+        "parent_class": "Outdoor leisure area"
+    },
+    "pavilion": {
+        "parent_class": "Outdoor recreational structure"
+    },
+    "pharmacy": {
+        "parent_class": "Retail or healthcare facility"
+    },
+    "phone booth": {
+        "parent_class": "Public space"
+    },
+    "physics laboratory": {
+        "parent_class": "Physics Laboratory"
+    },
+    "picnic area": {
+        "parent_class": "Outdoor recreation area"
+    },
+    "indoor pilothouse": {
+        "parent_class": "Marine navigation control room"
+    },
+    "outdoor planetarium": {
+        "parent_class": "Outdoor Astronomy Observation"
+    },
+    "playground": {
+        "parent_class": "Recreation area"
+    },
+    "playroom": {
+        "parent_class": "Children's Play Area"
+    },
+    "plaza": {
+        "parent_class": "Urban public space"
+    },
+    "indoor podium": {
+        "parent_class": "Indoor event space"
+    },
+    "outdoor podium": {
+        "parent_class": "Outdoor Event Stage"
+    },
+    "pond": {
+        "parent_class": "Freshwater aquatic ecosystem"
+    },
+    "establishment poolroom": {
+        "parent_class": "Pool Hall"
+    },
+    "home poolroom": {
+        "parent_class": "Recreation room"
+    },
+    "outdoor power plant": {
+        "parent_class": "Industrial outdoor landscape"
+    },
+    "promenade deck": {
+        "parent_class": "Outdoor leisure area"
+    },
+    "indoor pub": {
+        "parent_class": "Bar or tavern scene"
+    },
+    "pulpit": {
+        "parent_class": "Religious setting"
+    },
+    "putting green": {
+        "parent_class": "Golf course"
+    },
+    "racecourse": {
+        "parent_class": "Horse racing venue"
+    },
+    "raceway": {
+        "parent_class": "Aquatic habitat"
+    },
+    "raft": {
+        "parent_class": "Adventure survival"
+    },
+    "railroad track": {
+        "parent_class": "Railroad track in rural landscape"
+    },
+    "rainforest": {
+        "parent_class": "Tropical forest scene"
+    },
+    "reception": {
+        "parent_class": "Office or Lobby"
+    },
+    "recreation room": {
+        "parent_class": "Leisure and entertainment"
+    },
+    "residential neighborhood": {
+        "parent_class": "Residential Area"
+    },
+    "restaurant": {
+        "parent_class": "Fine dining, casual, fast food,"
+    },
+    "restaurant kitchen": {
+        "parent_class": "Commercial Food Preparation"
+    },
+    "restaurant patio": {
+        "parent_class": "Outdoor dining area"
+    },
+    "rice paddy": {
+        "parent_class": "Agricultural landscape"
+    },
+    "riding arena": {
+        "parent_class": "Equestrian sports facility"
+    },
+    "river": {
+        "parent_class": "Freshwater aquatic ecosystem"
+    },
+    "rock arch": {
+        "parent_class": "Coastal or desert landscape"
+    },
+    "rope bridge": {
+        "parent_class": "Jungle or forest"
+    },
+    "ruin": {
+        "parent_class": "Ancient ruins in wilderness"
+    },
+    "runway": {
+        "parent_class": "Runway"
+    },
+    "sandbar": {
+        "parent_class": "Beach or riverbank"
+    },
+    "sandbox": {
+        "parent_class": "Desert or beach"
+    },
+    "sauna": {
+        "parent_class": "Wellness or relaxation facility"
+    },
+    "schoolhouse": {
+        "parent_class": "Educational Institution"
+    },
+    "sea cliff": {
+        "parent_class": "Coastal landscape"
+    },
+    "server room": {
+        "parent_class": "Data Center Infrastructure"
+    },
+    "shed": {
+        "parent_class": "Storage or utility area"
+    },
+    "shoe shop": {
+        "parent_class": "Retail store"
+    },
+    "shopfront": {
+        "parent_class": "Retail storefront"
+    },
+    "indoor shopping mall": {
+        "parent_class": "Indoor shopping mall"
+    },
+    "shower": {
+        "parent_class": "Bathroom"
+    },
+    "skatepark": {
+        "parent_class": "Recreational sports facility"
+    },
+    "ski lodge": {
+        "parent_class": "Mountain winter resort"
+    },
+    "ski resort": {
+        "parent_class": "Alpine mountain resort"
+    },
+    "ski slope": {
+        "parent_class": "Alpine mountain landscape"
+    },
+    "sky": {
+        "parent_class": "Outdoor"
+    },
+    "skyscraper": {
+        "parent_class": "Urban cityscape"
+    },
+    "slum": {
+        "parent_class": "Urban informal settlement"
+    },
+    "snowfield": {
+        "parent_class": "Arctic or Alpine Landscape"
+    },
+    "squash court": {
+        "parent_class": "Indoor sports facility"
+    },
+    "stable": {
+        "parent_class": "Natural"
+    },
+    "baseball stadium": {
+        "parent_class": "Sports venue"
+    },
+    "football stadium": {
+        "parent_class": "Sports venue"
+    },
+    "indoor stage": {
+        "parent_class": "Concert Hall"
+    },
+    "staircase": {
+        "parent_class": "Interior architectural element"
+    },
+    "street": {
+        "parent_class": "Urban or natural landscape"
+    },
+    "subway interior": {
+        "parent_class": "Urban transportation interior"
+    },
+    "platform subway station": {
+        "parent_class": "Underground Transportation Hub"
+    },
+    "supermarket": {
+        "parent_class": "Retail shopping environment"
+    },
+    "sushi bar": {
+        "parent_class": "Japanese restaurant dining"
+    },
+    "swamp": {
+        "parent_class": "Wetland"
+    },
+    "indoor swimming pool": {
+        "parent_class": "Indoor sports facility"
+    },
+    "outdoor swimming pool": {
+        "parent_class": "Recreational water facility"
+    },
+    "indoor synagogue": {
+        "parent_class": "Religious indoor space"
+    },
+    "outdoor synagogue": {
+        "parent_class": "Outdoor religious gathering"
+    },
+    "television studio": {
+        "parent_class": "Broadcast production facility"
+    },
+    "east asia temple": {
+        "parent_class": "Sacred religious architecture"
+    },
+    "south asia temple": {
+        "parent_class": "Religious sacred site"
+    },
+    "indoor tennis court": {
+        "parent_class": "Indoor sports facility"
+    },
+    "outdoor tennis court": {
+        "parent_class": "Sports and Recreation"
+    },
+    "outdoor tent": {
+        "parent_class": "Camping or outdoor recreation"
+    },
+    "indoor procenium theater": {
+        "parent_class": "Indoor proscenium theater"
+    },
+    "indoor seats theater": {
+        "parent_class": "Indoor theater seating"
+    },
+    "thriftshop": {
+        "parent_class": "Secondhand retail store"
+    },
+    "throne room": {
+        "parent_class": "Royal Court Ceremony"
+    },
+    "ticket booth": {
+        "parent_class": "Amusement Park Entrance"
+    },
+    "toll plaza": {
+        "parent_class": "Transportation Infrastructure"
+    },
+    "topiary garden": {
+        "parent_class": "Formal garden landscape"
+    },
+    "tower": {
+        "parent_class": "Urban or natural landscape"
+    },
+    "toyshop": {
+        "parent_class": "Retail store environment"
+    },
+    "outdoor track": {
+        "parent_class": "Track and field"
+    },
+    "train railway": {
+        "parent_class": "Urban or rural landscape"
+    },
+    "platform train station": {
+        "parent_class": "Transportation hub"
+    },
+    "tree farm": {
+        "parent_class": "Agricultural or Rural Landscape"
+    },
+    "tree house": {
+        "parent_class": "Forest or jungle setting"
+    },
+    "trench": {
+        "parent_class": "Underwater or geological"
+    },
+    "coral reef underwater": {
+        "parent_class": "Underwater marine ecosystem"
+    },
+    "utility room": {
+        "parent_class": "Utility room"
+    },
+    "valley": {
+        "parent_class": "Mountain and valley landscape"
+    },
+    "van interior": {
+        "parent_class": "Urban or natural setting"
+    },
+    "vegetable garden": {
+        "parent_class": "Outdoor domestic landscape"
+    },
+    "veranda": {
+        "parent_class": "Outdoor leisure space"
+    },
+    "veterinarians office": {
+        "parent_class": "Medical facility"
+    },
+    "viaduct": {
+        "parent_class": "Transportation infrastructure"
+    },
+    "videostore": {
+        "parent_class": "Retail store"
+    },
+    "village": {
+        "parent_class": "Rural settlement"
+    },
+    "vineyard": {
+        "parent_class": "Agricultural landscape"
+    },
+    "volcano": {
+        "parent_class": "Volcano in natural landscape"
+    },
+    "indoor volleyball court": {
+        "parent_class": "Sports and recreation facility"
+    },
+    "outdoor volleyball court": {
+        "parent_class": "Outdoor sports facility"
+    },
+    "waiting room": {
+        "parent_class": "Medical or service area"
+    },
+    "indoor warehouse": {
+        "parent_class": "Industrial interior"
+    },
+    "water tower": {
+        "parent_class": "Urban or rural infrastructure"
+    },
+    "block waterfall": {
+        "parent_class": "Urban Waterfall"
+    },
+    "fan waterfall": {
+        "parent_class": "Industrial cooling system"
+    },
+    "plunge waterfall": {
+        "parent_class": "Mountain waterfall scene"
+    },
+    "watering hole": {
+        "parent_class": "Wildlife watering hole"
+    },
+    "wave": {
+        "parent_class": "Ocean, beach, or coastal"
+    },
+    "wet bar": {
+        "parent_class": "Entertainment or lounge area"
+    },
+    "wheat field": {
+        "parent_class": "Agricultural landscape"
+    },
+    "wind farm": {
+        "parent_class": "Offshore wind farm"
+    },
+    "windmill": {
+        "parent_class": "Rural landscape"
+    },
+    "barrel storage wine cellar": {
+        "parent_class": "Wine Storage Facility"
+    },
+    "bottle storage wine cellar": {
+        "parent_class": "Wine Storage"
+    },
+    "indoor wrestling ring": {
+        "parent_class": "Indoor sports arena"
+    },
+    "yard": {
+        "parent_class": "Residential outdoor space"
+    },
+    "youth hostel": {
+        "parent_class": "Budget Accommodation for Travelers"
+    }
+}

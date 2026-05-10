@@ -1,0 +1,143 @@
+{
+    "banded": {
+        "parent_class": "rock"
+    },
+    "blotchy": {
+        "parent_class": "paint uneven"
+    },
+    "braided": {
+        "parent_class": "textile"
+    },
+    "bubbly": {
+        "parent_class": "foam"
+    },
+    "bumpy": {
+        "parent_class": "texture uneven"
+    },
+    "chequered": {
+        "parent_class": "pattern"
+    },
+    "cobwebbed": {
+        "parent_class": "texture aged"
+    },
+    "cracked": {
+        "parent_class": "surface"
+    },
+    "crosshatched": {
+        "parent_class": "patterned surface"
+    },
+    "crystalline": {
+        "parent_class": "mineral"
+    },
+    "dotted": {
+        "parent_class": "pattern"
+    },
+    "fibrous": {
+        "parent_class": "texture"
+    },
+    "flecked": {
+        "parent_class": "textured surface"
+    },
+    "freckled": {
+        "parent_class": "skin irregular"
+    },
+    "frilly": {
+        "parent_class": "textile delicate"
+    },
+    "gauzy": {
+        "parent_class": "fabric sheer"
+    },
+    "grid": {
+        "parent_class": "pattern"
+    },
+    "grooved": {
+        "parent_class": "surface texture"
+    },
+    "honeycombed": {
+        "parent_class": "texture"
+    },
+    "interlaced": {
+        "parent_class": "woven fabric"
+    },
+    "knitted": {
+        "parent_class": "textile"
+    },
+    "lacelike": {
+        "parent_class": "textile delicate"
+    },
+    "lined": {
+        "parent_class": "fabric"
+    },
+    "marbled": {
+        "parent_class": "patterned"
+    },
+    "matted": {
+        "parent_class": "fabric"
+    },
+    "meshed": {
+        "parent_class": "fabric breathable"
+    },
+    "paisley": {
+        "parent_class": "textile pattern"
+    },
+    "perforated": {
+        "parent_class": "material"
+    },
+    "pitted": {
+        "parent_class": "surface texture"
+    },
+    "pleated": {
+        "parent_class": "textile"
+    },
+    "polka-dotted": {
+        "parent_class": "patterned"
+    },
+    "porous": {
+        "parent_class": "material"
+    },
+    "potholed": {
+        "parent_class": "road surface"
+    },
+    "scaly": {
+        "parent_class": "skin rough"
+    },
+    "smeared": {
+        "parent_class": "paint"
+    },
+    "spiralled": {
+        "parent_class": "texture"
+    },
+    "sprinkled": {
+        "parent_class": "decorative finish"
+    },
+    "stained": {
+        "parent_class": "texture aged"
+    },
+    "stratified": {
+        "parent_class": "rock layered"
+    },
+    "striped": {
+        "parent_class": "patterned"
+    },
+    "studded": {
+        "parent_class": "textured surface"
+    },
+    "swirly": {
+        "parent_class": "pattern"
+    },
+    "veined": {
+        "parent_class": "stone"
+    },
+    "waffled": {
+        "parent_class": "textured surface"
+    },
+    "woven": {
+        "parent_class": "textile tightly"
+    },
+    "wrinkled": {
+        "parent_class": "fabric"
+    },
+    "zigzagged": {
+        "parent_class": "pattern"
+    }
+}

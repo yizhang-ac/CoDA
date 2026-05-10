@@ -1,0 +1,302 @@
+{
+    "707-320": {
+        "parent_class": "Jet airliner"
+    },
+    "727-200": {
+        "parent_class": "Narrow-body jet airliner"
+    },
+    "737-200": {
+        "parent_class": "Regional jet"
+    },
+    "737-300": {
+        "parent_class": "Narrow-body jetliner"
+    },
+    "737-400": {
+        "parent_class": "Commercial airliner"
+    },
+    "737-500": {
+        "parent_class": "Narrow-body jet"
+    },
+    "737-600": {
+        "parent_class": "Narrow-body jet"
+    },
+    "737-700": {
+        "parent_class": "Narrow-body jet"
+    },
+    "737-800": {
+        "parent_class": "Narrow-body airliner"
+    },
+    "737-900": {
+        "parent_class": "Narrow-body jet"
+    },
+    "747-100": {
+        "parent_class": "Heavy transport"
+    },
+    "747-200": {
+        "parent_class": "Heavy transport"
+    },
+    "747-300": {
+        "parent_class": "Wide-body passenger/freighter"
+    },
+    "747-400": {
+        "parent_class": "Heavy passenger/cargo jet"
+    },
+    "757-200": {
+        "parent_class": "Narrow-body jetliner"
+    },
+    "757-300": {
+        "parent_class": "Large narrow-body jet"
+    },
+    "767-200": {
+        "parent_class": "Wide-body jet"
+    },
+    "767-300": {
+        "parent_class": "Wide-body passenger jet"
+    },
+    "767-400": {
+        "parent_class": "Wide-body passenger jet"
+    },
+    "777-200": {
+        "parent_class": "Wide-body jet"
+    },
+    "777-300": {
+        "parent_class": "Wide-body jet"
+    },
+    "A300B4": {
+        "parent_class": "Wide-body airliner"
+    },
+    "A310": {
+        "parent_class": "Wide-body passenger jet"
+    },
+    "A318": {
+        "parent_class": "Narrow-body Jet"
+    },
+    "A319": {
+        "parent_class": "Narrow-body airliner"
+    },
+    "A320": {
+        "parent_class": "Commercial airliner"
+    },
+    "A321": {
+        "parent_class": "Narrow-body airliner"
+    },
+    "A330-200": {
+        "parent_class": "Wide-body airliner"
+    },
+    "A330-300": {
+        "parent_class": "Wide-body airliner"
+    },
+    "A340-200": {
+        "parent_class": "Large passenger aircraft"
+    },
+    "A340-300": {
+        "parent_class": "Wide-body passenger jet"
+    },
+    "A340-500": {
+        "parent_class": "Long-haul passenger jet"
+    },
+    "A340-600": {
+        "parent_class": "Heavy long-haul passenger"
+    },
+    "A380": {
+        "parent_class": "Very Large Transport Aircraft"
+    },
+    "ATR-42": {
+        "parent_class": "Regional turboprop"
+    },
+    "ATR-72": {
+        "parent_class": "Regional Turboprop"
+    },
+    "An-12": {
+        "parent_class": "Military transport aircraft"
+    },
+    "BAE 146-200": {
+        "parent_class": "Regional jet"
+    },
+    "BAE 146-300": {
+        "parent_class": "Regional jet"
+    },
+    "BAE-125": {
+        "parent_class": "Business jet"
+    },
+    "Beechcraft 1900": {
+        "parent_class": "Regional airliner"
+    },
+    "Boeing 717": {
+        "parent_class": "Regional jet"
+    },
+    "C-130": {
+        "parent_class": "Military transport aircraft"
+    },
+    "C-47": {
+        "parent_class": "Military transport aircraft"
+    },
+    "CRJ-200": {
+        "parent_class": "Regional jet"
+    },
+    "CRJ-700": {
+        "parent_class": "Regional jet"
+    },
+    "CRJ-900": {
+        "parent_class": "Regional jet"
+    },
+    "Cessna 172": {
+        "parent_class": "Light aircraft"
+    },
+    "Cessna 208": {
+        "parent_class": "Utility"
+    },
+    "Cessna 525": {
+        "parent_class": "Business jet"
+    },
+    "Cessna 560": {
+        "parent_class": "Business jet"
+    },
+    "Challenger 600": {
+        "parent_class": "Business jet"
+    },
+    "DC-10": {
+        "parent_class": "Wide-body jet"
+    },
+    "DC-3": {
+        "parent_class": "Transport aircraft"
+    },
+    "DC-6": {
+        "parent_class": "Transport"
+    },
+    "DC-8": {
+        "parent_class": "Commercial airliner"
+    },
+    "DC-9-30": {
+        "parent_class": "Narrow-body jet"
+    },
+    "DH-82": {
+        "parent_class": "Trainer"
+    },
+    "DHC-1": {
+        "parent_class": "Trainer"
+    },
+    "DHC-6": {
+        "parent_class": "Utility aircraft"
+    },
+    "DHC-8-100": {
+        "parent_class": "Regional airliner"
+    },
+    "DHC-8-300": {
+        "parent_class": "Regional airliner"
+    },
+    "DR-400": {
+        "parent_class": "Light Aircraft"
+    },
+    "Dornier 328": {
+        "parent_class": "Regional airliner"
+    },
+    "E-170": {
+        "parent_class": "Regional jet"
+    },
+    "E-190": {
+        "parent_class": "Regional jet"
+    },
+    "E-195": {
+        "parent_class": "Regional jet"
+    },
+    "EMB-120": {
+        "parent_class": "Regional turboprop"
+    },
+    "ERJ 135": {
+        "parent_class": "Regional jet"
+    },
+    "ERJ 145": {
+        "parent_class": "Regional jet"
+    },
+    "Embraer Legacy 600": {
+        "parent_class": "Business jet"
+    },
+    "Eurofighter Typhoon": {
+        "parent_class": "Multirole Fighter"
+    },
+    "F-16A/B": {
+        "parent_class": "Fighter"
+    },
+    "F/A-18": {
+        "parent_class": "Fighter"
+    },
+    "Falcon 2000": {
+        "parent_class": "Business Jet"
+    },
+    "Falcon 900": {
+        "parent_class": "Business jet"
+    },
+    "Fokker 100": {
+        "parent_class": "Regional Jet"
+    },
+    "Fokker 50": {
+        "parent_class": "Regional turboprop"
+    },
+    "Fokker 70": {
+        "parent_class": "Regional jet"
+    },
+    "Global Express": {
+        "parent_class": "Business jet"
+    },
+    "Gulfstream IV": {
+        "parent_class": "Business jet"
+    },
+    "Gulfstream V": {
+        "parent_class": "Business jet"
+    },
+    "Hawk T1": {
+        "parent_class": "Trainer"
+    },
+    "Il-76": {
+        "parent_class": "Military transport airlifter"
+    },
+    "L-1011": {
+        "parent_class": "Commercial airliner"
+    },
+    "MD-11": {
+        "parent_class": "Cargo transport"
+    },
+    "MD-80": {
+        "parent_class": "Narrow-body jet"
+    },
+    "MD-87": {
+        "parent_class": "Business jet"
+    },
+    "MD-90": {
+        "parent_class": "Narrow-body airliner"
+    },
+    "Metroliner": {
+        "parent_class": "Regional airliner"
+    },
+    "Model B200": {
+        "parent_class": "Multi-role utility aircraft"
+    },
+    "PA-28": {
+        "parent_class": "Light aircraft"
+    },
+    "SR-20": {
+        "parent_class": "Single-engine piston"
+    },
+    "Saab 2000": {
+        "parent_class": "Regional airliner"
+    },
+    "Saab 340": {
+        "parent_class": "Regional airliner"
+    },
+    "Spitfire": {
+        "parent_class": "Fighter"
+    },
+    "Tornado": {
+        "parent_class": "Fighter-bomber"
+    },
+    "Tu-134": {
+        "parent_class": "Passenger jet"
+    },
+    "Tu-154": {
+        "parent_class": "Medium-range jet airliner"
+    },
+    "Yak-42": {
+        "parent_class": "Medium passenger jet"
+    }
+}

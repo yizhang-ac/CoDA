@@ -1,0 +1,308 @@
+{
+    "passion flower": {
+        "parent_class": "Passifloraceae"
+    },
+    "water lily": {
+        "parent_class": "Nymphaeaceae"
+    },
+    "cyclamen": {
+        "parent_class": "Primulaceae"
+    },
+    "watercress": {
+        "parent_class": "Brassicaceae"
+    },
+    "frangipani": {
+        "parent_class": "Apocynaceae"
+    },
+    "wallflower": {
+        "parent_class": "Brassicaceae"
+    },
+    "rose": {
+        "parent_class": "Rosaceae"
+    },
+    "petunia": {
+        "parent_class": "Solanaceae"
+    },
+    "poinsettia": {
+        "parent_class": "Euphorbiaceae"
+    },
+    "clematis": {
+        "parent_class": "Ranunculaceae"
+    },
+    "hibiscus": {
+        "parent_class": "Malvaceae"
+    },
+    "lotus": {
+        "parent_class": "Nelumbonaceae"
+    },
+    "anthurium": {
+        "parent_class": "Araceae"
+    },
+    "thorn apple": {
+        "parent_class": "Solanaceae"
+    },
+    "barbeton daisy": {
+        "parent_class": "Asteraceae"
+    },
+    "sword lily": {
+        "parent_class": "Iridaceae"
+    },
+    "morning glory": {
+        "parent_class": "Convolvulaceae"
+    },
+    "columbine": {
+        "parent_class": "Ranunculaceae"
+    },
+    "geranium": {
+        "parent_class": "Geraniaceae"
+    },
+    "bishop of llandaff": {
+        "parent_class": "Dahlia"
+    },
+    "tree mallow": {
+        "parent_class": "Malvaceae"
+    },
+    "pink-yellow dahlia": {
+        "parent_class": "Asteraceae"
+    },
+    "bee balm": {
+        "parent_class": "Lamiaceae"
+    },
+    "snapdragon": {
+        "parent_class": "Plantaginaceae"
+    },
+    "californian poppy": {
+        "parent_class": "Papaveraceae"
+    },
+    "bird of paradise": {
+        "parent_class": "Strelitziaceae"
+    },
+    "fritillary": {
+        "parent_class": "Liliaceae"
+    },
+    "sweet william": {
+        "parent_class": "Caryophyllaceae"
+    },
+    "azalea": {
+        "parent_class": "Ericaceae"
+    },
+    "primula": {
+        "parent_class": "Primulaceae"
+    },
+    "cape flower": {
+        "parent_class": "Aizoaceae"
+    },
+    "purple coneflower": {
+        "parent_class": "Asteraceae"
+    },
+    "colt's foot": {
+        "parent_class": "Asteraceae"
+    },
+    "artichoke": {
+        "parent_class": "Asteraceae"
+    },
+    "wild pansy": {
+        "parent_class": "Violaceae"
+    },
+    "peruvian lily": {
+        "parent_class": "Alstroemeriaceae"
+    },
+    "ruby-lipped cattleya": {
+        "parent_class": "Orchidaceae"
+    },
+    "canna lily": {
+        "parent_class": "Cannaceae"
+    },
+    "gazania": {
+        "parent_class": "Asteraceae"
+    },
+    "lenten rose": {
+        "parent_class": "Ranunculaceae"
+    },
+    "buttercup": {
+        "parent_class": "Ranunculaceae"
+    },
+    "pelargonium": {
+        "parent_class": "Geraniaceae"
+    },
+    "desert-rose": {
+        "parent_class": "Apocynaceae"
+    },
+    "hippeastrum": {
+        "parent_class": "Amaryllidaceae"
+    },
+    "giant white arum lily": {
+        "parent_class": "Araceae"
+    },
+    "marigold": {
+        "parent_class": "Asteraceae"
+    },
+    "orange dahlia": {
+        "parent_class": "Asteraceae"
+    },
+    "hard-leaved pocket orchid": {
+        "parent_class": "Orchidaceae"
+    },
+    "english marigold": {
+        "parent_class": "Asteraceae"
+    },
+    "stemless gentian": {
+        "parent_class": "Gentianaceae"
+    },
+    "tree poppy": {
+        "parent_class": "Papaveraceae"
+    },
+    "pincushion flower": {
+        "parent_class": "Scabiosa family"
+    },
+    "sunflower": {
+        "parent_class": "Asteraceae"
+    },
+    "magnolia": {
+        "parent_class": "Magnoliaceae"
+    },
+    "osteospermum": {
+        "parent_class": "Asteraceae"
+    },
+    "garden phlox": {
+        "parent_class": "Polemoniaceae"
+    },
+    "sweet pea": {
+        "parent_class": "Fabaceae"
+    },
+    "daffodil": {
+        "parent_class": "Amaryllidaceae"
+    },
+    "king protea": {
+        "parent_class": "Proteaceae"
+    },
+    "great masterwort": {
+        "parent_class": "Apiaceae"
+    },
+    "black-eyed susan": {
+        "parent_class": "Asteraceae"
+    },
+    "bearded iris": {
+        "parent_class": "Iridaceae"
+    },
+    "windflower": {
+        "parent_class": "Ranunculaceae"
+    },
+    "ball moss": {
+        "parent_class": "Bromeliaceae"
+    },
+    "spear thistle": {
+        "parent_class": "Asteraceae"
+    },
+    "silverbush": {
+        "parent_class": "Convolvulaceae"
+    },
+    "balloon flower": {
+        "parent_class": "Campanulaceae"
+    },
+    "oxeye daisy": {
+        "parent_class": "Asteraceae"
+    },
+    "cautleya spicata": {
+        "parent_class": "Zingiberaceae"
+    },
+    "common dandelion": {
+        "parent_class": "Asteraceae"
+    },
+    "yellow iris": {
+        "parent_class": "Iridaceae"
+    },
+    "monkshood": {
+        "parent_class": "Ranunculaceae"
+    },
+    "love in the mist": {
+        "parent_class": "Ranunculaceae"
+    },
+    "corn poppy": {
+        "parent_class": "Papaveraceae"
+    },
+    "grape hyacinth": {
+        "parent_class": "Asparagaceae"
+    },
+    "canterbury bells": {
+        "parent_class": "Campanulaceae"
+    },
+    "globe-flower": {
+        "parent_class": "Ranunculaceae"
+    },
+    "toad lily": {
+        "parent_class": "Liliaceae"
+    },
+    "pink primrose": {
+        "parent_class": "Onagraceae"
+    },
+    "fire lily": {
+        "parent_class": "Liliaceae"
+    },
+    "red ginger": {
+        "parent_class": "Zingiberaceae"
+    },
+    "prince of wales feathers": {
+        "parent_class": "Amaranthaceae"
+    },
+    "carnation": {
+        "parent_class": "Caryophyllaceae"
+    },
+    "mexican aster": {
+        "parent_class": "Asteraceae"
+    },
+    "alpine sea holly": {
+        "parent_class": "Apiaceae"
+    },
+    "siam tulip": {
+        "parent_class": "Zingiberaceae"
+    },
+    "spring crocus": {
+        "parent_class": "Iridaceae"
+    },
+    "globe thistle": {
+        "parent_class": "Asteraceae"
+    },
+    "bolero deep blue": {
+        "parent_class": "Boraginaceae"
+    },
+    "tiger lily": {
+        "parent_class": "Liliaceae"
+    },
+    "moon orchid": {
+        "parent_class": "Orchidaceae"
+    },
+    "gaura": {
+        "parent_class": "Onagraceae"
+    },
+    "japanese anemone": {
+        "parent_class": "Ranunculaceae"
+    },
+    "foxglove": {
+        "parent_class": "Plantaginaceae"
+    },
+    "bougainvillea": {
+        "parent_class": "Nyctaginaceae"
+    },
+    "camellia": {
+        "parent_class": "Theaceae"
+    },
+    "mallow": {
+        "parent_class": "Malvaceae"
+    },
+    "mexican petunia": {
+        "parent_class": "Acanthaceae"
+    },
+    "bromelia": {
+        "parent_class": "Bromeliaceae"
+    },
+    "blanket flower": {
+        "parent_class": "Asteraceae"
+    },
+    "trumpet creeper": {
+        "parent_class": "Bignoniaceae"
+    },
+    "blackberry lily": {
+        "parent_class": "Iridaceae"
+    }
+}

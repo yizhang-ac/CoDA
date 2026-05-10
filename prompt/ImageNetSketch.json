@@ -1,0 +1,2996 @@
+{
+    "tench": {
+        "parent_class": "Fish"
+    },
+    "goldfish": {
+        "parent_class": "Fish"
+    },
+    "great white shark": {
+        "parent_class": "Marine predator"
+    },
+    "tiger shark": {
+        "parent_class": "Marine predator"
+    },
+    "hammerhead shark": {
+        "parent_class": "Marine animal"
+    },
+    "electric ray": {
+        "parent_class": "Fish"
+    },
+    "stingray": {
+        "parent_class": "Cartilaginous fish"
+    },
+    "rooster": {
+        "parent_class": "Animal"
+    },
+    "hen": {
+        "parent_class": "Bird"
+    },
+    "ostrich": {
+        "parent_class": "Bird"
+    },
+    "brambling": {
+        "parent_class": "Bird"
+    },
+    "goldfinch": {
+        "parent_class": "Bird"
+    },
+    "house finch": {
+        "parent_class": "Bird"
+    },
+    "junco": {
+        "parent_class": "Bird"
+    },
+    "indigo bunting": {
+        "parent_class": "Bird"
+    },
+    "American robin": {
+        "parent_class": "Bird"
+    },
+    "bulbul": {
+        "parent_class": "Bird"
+    },
+    "jay": {
+        "parent_class": "Bird"
+    },
+    "magpie": {
+        "parent_class": "Bird"
+    },
+    "chickadee": {
+        "parent_class": "Bird"
+    },
+    "American dipper": {
+        "parent_class": "Aquatic bird"
+    },
+    "kite (bird of prey)": {
+        "parent_class": "Bird of prey"
+    },
+    "bald eagle": {
+        "parent_class": "Bird of prey"
+    },
+    "vulture": {
+        "parent_class": "Scavenging bird"
+    },
+    "great grey owl": {
+        "parent_class": "Bird"
+    },
+    "fire salamander": {
+        "parent_class": "Amphibian"
+    },
+    "smooth newt": {
+        "parent_class": "Amphibian"
+    },
+    "newt": {
+        "parent_class": "Amphibian"
+    },
+    "spotted salamander": {
+        "parent_class": "Amphibian"
+    },
+    "axolotl": {
+        "parent_class": "Aquatic salamander"
+    },
+    "American bullfrog": {
+        "parent_class": "Amphibian"
+    },
+    "tree frog": {
+        "parent_class": "Amphibian"
+    },
+    "tailed frog": {
+        "parent_class": "Amphibian"
+    },
+    "loggerhead sea turtle": {
+        "parent_class": "Reptile"
+    },
+    "leatherback sea turtle": {
+        "parent_class": "Reptile"
+    },
+    "mud turtle": {
+        "parent_class": "Reptile"
+    },
+    "terrapin": {
+        "parent_class": "Reptile"
+    },
+    "box turtle": {
+        "parent_class": "Reptile"
+    },
+    "banded gecko": {
+        "parent_class": "Reptile"
+    },
+    "green iguana": {
+        "parent_class": "Reptile"
+    },
+    "Carolina anole": {
+        "parent_class": "Reptile"
+    },
+    "desert grassland whiptail lizard": {
+        "parent_class": "Reptile"
+    },
+    "agama": {
+        "parent_class": "Religious text"
+    },
+    "frilled-necked lizard": {
+        "parent_class": "Reptile"
+    },
+    "alligator lizard": {
+        "parent_class": "Reptile"
+    },
+    "Gila monster": {
+        "parent_class": "Reptile"
+    },
+    "European green lizard": {
+        "parent_class": "Reptile"
+    },
+    "chameleon": {
+        "parent_class": "Animal"
+    },
+    "Komodo dragon": {
+        "parent_class": "Reptile"
+    },
+    "Nile crocodile": {
+        "parent_class": "Reptile"
+    },
+    "American alligator": {
+        "parent_class": "Reptile"
+    },
+    "triceratops": {
+        "parent_class": "Animal"
+    },
+    "worm snake": {
+        "parent_class": "Reptile"
+    },
+    "ring-necked snake": {
+        "parent_class": "Reptile"
+    },
+    "eastern hog-nosed snake": {
+        "parent_class": "Reptile"
+    },
+    "smooth green snake": {
+        "parent_class": "Reptile"
+    },
+    "kingsnake": {
+        "parent_class": "Reptile"
+    },
+    "garter snake": {
+        "parent_class": "Reptile"
+    },
+    "water snake": {
+        "parent_class": "Reptile"
+    },
+    "vine snake": {
+        "parent_class": "Animal"
+    },
+    "night snake": {
+        "parent_class": "Reptile"
+    },
+    "boa constrictor": {
+        "parent_class": "Animal"
+    },
+    "African rock python": {
+        "parent_class": "Reptile"
+    },
+    "Indian cobra": {
+        "parent_class": "Animal"
+    },
+    "green mamba": {
+        "parent_class": "Snake"
+    },
+    "sea snake": {
+        "parent_class": "Marine reptile"
+    },
+    "Saharan horned viper": {
+        "parent_class": "Reptile"
+    },
+    "eastern diamondback rattlesnake": {
+        "parent_class": "Venomous snake"
+    },
+    "sidewinder rattlesnake": {
+        "parent_class": "Reptile"
+    },
+    "trilobite": {
+        "parent_class": "Extinct marine arthropod"
+    },
+    "harvestman": {
+        "parent_class": "Arachnid"
+    },
+    "scorpion": {
+        "parent_class": "Animal"
+    },
+    "yellow garden spider": {
+        "parent_class": "Arachnid"
+    },
+    "barn spider": {
+        "parent_class": "Arachnid"
+    },
+    "European garden spider": {
+        "parent_class": "Arachnid"
+    },
+    "southern black widow": {
+        "parent_class": "Venomous spider"
+    },
+    "tarantula": {
+        "parent_class": "Arachnid"
+    },
+    "wolf spider": {
+        "parent_class": "Arachnid"
+    },
+    "tick": {
+        "parent_class": "Furniture"
+    },
+    "centipede": {
+        "parent_class": "Arthropod"
+    },
+    "black grouse": {
+        "parent_class": "Bird"
+    },
+    "ptarmigan": {
+        "parent_class": "Bird"
+    },
+    "ruffed grouse": {
+        "parent_class": "Bird"
+    },
+    "prairie grouse": {
+        "parent_class": "Birds"
+    },
+    "peafowl": {
+        "parent_class": "Bird"
+    },
+    "quail": {
+        "parent_class": "Bird"
+    },
+    "partridge": {
+        "parent_class": "Bird"
+    },
+    "african grey parrot": {
+        "parent_class": "Bird"
+    },
+    "macaw": {
+        "parent_class": "Bird"
+    },
+    "sulphur-crested cockatoo": {
+        "parent_class": "Bird"
+    },
+    "lorikeet": {
+        "parent_class": "Bird"
+    },
+    "coucal": {
+        "parent_class": "Bird"
+    },
+    "bee eater": {
+        "parent_class": "Bird"
+    },
+    "hornbill": {
+        "parent_class": "Bird"
+    },
+    "hummingbird": {
+        "parent_class": "Bird"
+    },
+    "jacamar": {
+        "parent_class": "Bird"
+    },
+    "toucan": {
+        "parent_class": "Bird"
+    },
+    "duck": {
+        "parent_class": "Bird"
+    },
+    "red-breasted merganser": {
+        "parent_class": "Bird"
+    },
+    "goose": {
+        "parent_class": "Bird"
+    },
+    "black swan": {
+        "parent_class": "Animal"
+    },
+    "tusker": {
+        "parent_class": "Animal"
+    },
+    "echidna": {
+        "parent_class": "Mammal"
+    },
+    "platypus": {
+        "parent_class": "Mammal"
+    },
+    "wallaby": {
+        "parent_class": "Marsupial mammal"
+    },
+    "koala": {
+        "parent_class": "Mammal"
+    },
+    "wombat": {
+        "parent_class": "Mammal"
+    },
+    "jellyfish": {
+        "parent_class": "Aquatic animals"
+    },
+    "sea anemone": {
+        "parent_class": "Animal"
+    },
+    "brain coral": {
+        "parent_class": "Marine invertebrate"
+    },
+    "flatworm": {
+        "parent_class": "Invertebrate animal"
+    },
+    "nematode": {
+        "parent_class": "Worm-like animal"
+    },
+    "conch": {
+        "parent_class": "Shell"
+    },
+    "snail": {
+        "parent_class": "Mollusk"
+    },
+    "slug": {
+        "parent_class": "Furniture"
+    },
+    "sea slug": {
+        "parent_class": "Marine mollusk"
+    },
+    "chiton": {
+        "parent_class": "Mollusk shell plates"
+    },
+    "chambered nautilus": {
+        "parent_class": "Mollusk shell"
+    },
+    "Dungeness crab": {
+        "parent_class": "Crustacean"
+    },
+    "rock crab": {
+        "parent_class": "Crustacean"
+    },
+    "fiddler crab": {
+        "parent_class": "Crustacean"
+    },
+    "red king crab": {
+        "parent_class": "Crustacean"
+    },
+    "American lobster": {
+        "parent_class": "Crustacean"
+    },
+    "spiny lobster": {
+        "parent_class": "Crustacean"
+    },
+    "crayfish": {
+        "parent_class": "Aquatic arthropod"
+    },
+    "hermit crab": {
+        "parent_class": "Animal"
+    },
+    "isopod": {
+        "parent_class": "Crustacean"
+    },
+    "white stork": {
+        "parent_class": "Bird"
+    },
+    "black stork": {
+        "parent_class": "Bird"
+    },
+    "spoonbill": {
+        "parent_class": "Bird"
+    },
+    "flamingo": {
+        "parent_class": "Bird"
+    },
+    "little blue heron": {
+        "parent_class": "Bird"
+    },
+    "great egret": {
+        "parent_class": "Bird"
+    },
+    "bittern bird": {
+        "parent_class": "Bird"
+    },
+    "crane bird": {
+        "parent_class": "Bird"
+    },
+    "limpkin": {
+        "parent_class": "Bird"
+    },
+    "common gallinule": {
+        "parent_class": "Bird"
+    },
+    "American coot": {
+        "parent_class": "Waterfowl"
+    },
+    "bustard": {
+        "parent_class": "Bird"
+    },
+    "ruddy turnstone": {
+        "parent_class": "Bird"
+    },
+    "dunlin": {
+        "parent_class": "Bird"
+    },
+    "common redshank": {
+        "parent_class": "Bird"
+    },
+    "dowitcher": {
+        "parent_class": "Shorebird"
+    },
+    "oystercatcher": {
+        "parent_class": "Bird"
+    },
+    "pelican": {
+        "parent_class": "Bird"
+    },
+    "king penguin": {
+        "parent_class": "Bird"
+    },
+    "albatross": {
+        "parent_class": "Bird"
+    },
+    "grey whale": {
+        "parent_class": "Marine mammal"
+    },
+    "killer whale": {
+        "parent_class": "Marine mammal"
+    },
+    "dugong": {
+        "parent_class": "Marine mammal"
+    },
+    "sea lion": {
+        "parent_class": "Marine mammal"
+    },
+    "Chihuahua": {
+        "parent_class": "Dog breed"
+    },
+    "Japanese Chin": {
+        "parent_class": "Toy dog breed"
+    },
+    "Maltese": {
+        "parent_class": "Language"
+    },
+    "Pekingese": {
+        "parent_class": "Dog breed"
+    },
+    "Shih Tzu": {
+        "parent_class": "Dog breed"
+    },
+    "King Charles Spaniel": {
+        "parent_class": "Dog breed"
+    },
+    "Papillon": {
+        "parent_class": "Dog breed"
+    },
+    "toy terrier": {
+        "parent_class": "Dog breed"
+    },
+    "Rhodesian Ridgeback": {
+        "parent_class": "Dog breed"
+    },
+    "Afghan Hound": {
+        "parent_class": "Dog breed"
+    },
+    "Basset Hound": {
+        "parent_class": "Dog breed"
+    },
+    "Beagle": {
+        "parent_class": "Dog breed"
+    },
+    "Bloodhound": {
+        "parent_class": "Dog breed"
+    },
+    "Bluetick Coonhound": {
+        "parent_class": "Dog breed"
+    },
+    "Black and Tan Coonhound": {
+        "parent_class": "Dog breed"
+    },
+    "Treeing Walker Coonhound": {
+        "parent_class": "Dog breed"
+    },
+    "English foxhound": {
+        "parent_class": "Dog breed"
+    },
+    "Redbone Coonhound": {
+        "parent_class": "Dog breed"
+    },
+    "borzoi": {
+        "parent_class": "Dog breed"
+    },
+    "Irish Wolfhound": {
+        "parent_class": "Dog breed"
+    },
+    "Italian Greyhound": {
+        "parent_class": "Dog breed"
+    },
+    "Whippet": {
+        "parent_class": "Dog breed"
+    },
+    "Ibizan Hound": {
+        "parent_class": "Dog breed"
+    },
+    "Norwegian Elkhound": {
+        "parent_class": "Dog breed"
+    },
+    "Otterhound": {
+        "parent_class": "Dog breed"
+    },
+    "Saluki": {
+        "parent_class": "Dog breed"
+    },
+    "Scottish Deerhound": {
+        "parent_class": "Dog breed"
+    },
+    "Weimaraner": {
+        "parent_class": "Dog breed"
+    },
+    "Staffordshire Bull Terrier": {
+        "parent_class": "Dog breed"
+    },
+    "American Staffordshire Terrier": {
+        "parent_class": "Dog breed"
+    },
+    "Bedlington Terrier": {
+        "parent_class": "Dog breed"
+    },
+    "Border Terrier": {
+        "parent_class": "Dog breed"
+    },
+    "Kerry Blue Terrier": {
+        "parent_class": "Dog breed"
+    },
+    "Irish Terrier": {
+        "parent_class": "Dog breed"
+    },
+    "Norfolk Terrier": {
+        "parent_class": "Dog breed"
+    },
+    "Norwich Terrier": {
+        "parent_class": "Dog breed"
+    },
+    "Yorkshire Terrier": {
+        "parent_class": "Dog breed"
+    },
+    "Wire Fox Terrier": {
+        "parent_class": "Dog breed"
+    },
+    "Lakeland Terrier": {
+        "parent_class": "Dog breed"
+    },
+    "Sealyham Terrier": {
+        "parent_class": "Dog breed"
+    },
+    "Airedale Terrier": {
+        "parent_class": "Dog breed"
+    },
+    "Cairn Terrier": {
+        "parent_class": "Dog breed"
+    },
+    "Australian Terrier": {
+        "parent_class": "Dog breed"
+    },
+    "Dandie Dinmont Terrier": {
+        "parent_class": "Dog breed"
+    },
+    "Boston Terrier": {
+        "parent_class": "Dog breed"
+    },
+    "Miniature Schnauzer": {
+        "parent_class": "Dog breed"
+    },
+    "Giant Schnauzer": {
+        "parent_class": "Dog breed"
+    },
+    "Standard Schnauzer": {
+        "parent_class": "Dog breed"
+    },
+    "Scottish Terrier": {
+        "parent_class": "Dog breed"
+    },
+    "Tibetan Terrier": {
+        "parent_class": "Dog breed"
+    },
+    "Australian Silky Terrier": {
+        "parent_class": "Dog breed"
+    },
+    "Soft-coated Wheaten Terrier": {
+        "parent_class": "Dog breed"
+    },
+    "West Highland White Terrier": {
+        "parent_class": "Dog breed"
+    },
+    "Lhasa Apso": {
+        "parent_class": "Dog breed"
+    },
+    "Flat-Coated Retriever": {
+        "parent_class": "Dog breed"
+    },
+    "Curly-coated Retriever": {
+        "parent_class": "Dog breed"
+    },
+    "Golden Retriever": {
+        "parent_class": "Dog breed"
+    },
+    "Labrador Retriever": {
+        "parent_class": "Dog breed"
+    },
+    "Chesapeake Bay Retriever": {
+        "parent_class": "Dog breed"
+    },
+    "German Shorthaired Pointer": {
+        "parent_class": "Dog breed"
+    },
+    "Vizsla": {
+        "parent_class": "Dog breed"
+    },
+    "English Setter": {
+        "parent_class": "Dog breed"
+    },
+    "Irish Setter": {
+        "parent_class": "Dog breed"
+    },
+    "Gordon Setter": {
+        "parent_class": "Dog breed"
+    },
+    "Brittany dog": {
+        "parent_class": "Dog breed"
+    },
+    "Clumber Spaniel": {
+        "parent_class": "Dog breed"
+    },
+    "English Springer Spaniel": {
+        "parent_class": "Dog breed"
+    },
+    "Welsh Springer Spaniel": {
+        "parent_class": "Dog breed"
+    },
+    "Cocker Spaniel": {
+        "parent_class": "Dog breed"
+    },
+    "Sussex Spaniel": {
+        "parent_class": "Dog breed"
+    },
+    "Irish Water Spaniel": {
+        "parent_class": "Dog breed"
+    },
+    "Kuvasz": {
+        "parent_class": "Dog breed"
+    },
+    "Schipperke": {
+        "parent_class": "Dog breed"
+    },
+    "Groenendael dog": {
+        "parent_class": "Dog breed"
+    },
+    "Malinois": {
+        "parent_class": "Dog breed"
+    },
+    "Briard": {
+        "parent_class": "Dog breed"
+    },
+    "Australian Kelpie": {
+        "parent_class": "Dog breed"
+    },
+    "Komondor": {
+        "parent_class": "Dog breed"
+    },
+    "Old English Sheepdog": {
+        "parent_class": "Dog breed"
+    },
+    "Shetland Sheepdog": {
+        "parent_class": "Dog breed"
+    },
+    "collie": {
+        "parent_class": "Dog breed"
+    },
+    "Border Collie": {
+        "parent_class": "Dog breed"
+    },
+    "Bouvier des Flandres dog": {
+        "parent_class": "Dog breed"
+    },
+    "Rottweiler": {
+        "parent_class": "Dog breed"
+    },
+    "German Shepherd Dog": {
+        "parent_class": "Canine"
+    },
+    "Dobermann": {
+        "parent_class": "Dog breed"
+    },
+    "Miniature Pinscher": {
+        "parent_class": "Dog breed"
+    },
+    "Greater Swiss Mountain Dog": {
+        "parent_class": "Dog breed"
+    },
+    "Bernese Mountain Dog": {
+        "parent_class": "Dog breed"
+    },
+    "Appenzeller Sennenhund": {
+        "parent_class": "Dog breed"
+    },
+    "Entlebucher Sennenhund": {
+        "parent_class": "Dog breed"
+    },
+    "Boxer": {
+        "parent_class": "Working animal"
+    },
+    "Bullmastiff": {
+        "parent_class": "Dog breed"
+    },
+    "Tibetan Mastiff": {
+        "parent_class": "Dog breed"
+    },
+    "French Bulldog": {
+        "parent_class": "Dog breed"
+    },
+    "Great Dane": {
+        "parent_class": "Dog breed"
+    },
+    "St. Bernard": {
+        "parent_class": "Dog breed"
+    },
+    "husky": {
+        "parent_class": "Dog breed"
+    },
+    "Alaskan Malamute": {
+        "parent_class": "Dog breed"
+    },
+    "Siberian Husky": {
+        "parent_class": "Dog breed"
+    },
+    "Dalmatian": {
+        "parent_class": "Dog breed"
+    },
+    "Affenpinscher": {
+        "parent_class": "Dog breed"
+    },
+    "Basenji": {
+        "parent_class": "Dog breed"
+    },
+    "pug": {
+        "parent_class": "Dog breed"
+    },
+    "Leonberger": {
+        "parent_class": "Dog breed"
+    },
+    "Newfoundland dog": {
+        "parent_class": "Animal"
+    },
+    "Great Pyrenees dog": {
+        "parent_class": "Dog breed"
+    },
+    "Samoyed": {
+        "parent_class": "Dog breed"
+    },
+    "Pomeranian": {
+        "parent_class": "Dog breed"
+    },
+    "Chow Chow": {
+        "parent_class": "Dog breed"
+    },
+    "Keeshond": {
+        "parent_class": "Dog breed"
+    },
+    "brussels griffon": {
+        "parent_class": "Dog breed"
+    },
+    "Pembroke Welsh Corgi": {
+        "parent_class": "Dog breed"
+    },
+    "Cardigan Welsh Corgi": {
+        "parent_class": "Dog breed"
+    },
+    "Toy Poodle": {
+        "parent_class": "Dog breed"
+    },
+    "Miniature Poodle": {
+        "parent_class": "Dog breed"
+    },
+    "Standard Poodle": {
+        "parent_class": "Dog breed"
+    },
+    "Mexican hairless dog (xoloitzcuintli)": {
+        "parent_class": "Dog breed"
+    },
+    "grey wolf": {
+        "parent_class": "Animal"
+    },
+    "Alaskan tundra wolf": {
+        "parent_class": "Canine"
+    },
+    "red wolf or maned wolf": {
+        "parent_class": "Canid"
+    },
+    "coyote": {
+        "parent_class": "Wild canid"
+    },
+    "dingo": {
+        "parent_class": "Wild canid"
+    },
+    "dhole": {
+        "parent_class": "Carnivorous mammal"
+    },
+    "African wild dog": {
+        "parent_class": "Animal"
+    },
+    "hyena": {
+        "parent_class": "Animal"
+    },
+    "red fox": {
+        "parent_class": "Mammal"
+    },
+    "kit fox": {
+        "parent_class": "Mammal"
+    },
+    "Arctic fox": {
+        "parent_class": "Mammal"
+    },
+    "grey fox": {
+        "parent_class": "Mammal"
+    },
+    "tabby cat": {
+        "parent_class": "Animal"
+    },
+    "tiger cat": {
+        "parent_class": "Animal"
+    },
+    "Persian cat": {
+        "parent_class": "Animal"
+    },
+    "Siamese cat": {
+        "parent_class": "Animal"
+    },
+    "Egyptian Mau": {
+        "parent_class": "Cat"
+    },
+    "cougar": {
+        "parent_class": "Large wild cat"
+    },
+    "lynx": {
+        "parent_class": "Mammal"
+    },
+    "leopard": {
+        "parent_class": "Animal"
+    },
+    "snow leopard": {
+        "parent_class": "Mammal"
+    },
+    "jaguar": {
+        "parent_class": "Animal"
+    },
+    "lion": {
+        "parent_class": "Animal"
+    },
+    "tiger": {
+        "parent_class": "Animal"
+    },
+    "cheetah": {
+        "parent_class": "Animal"
+    },
+    "brown bear": {
+        "parent_class": "Animal"
+    },
+    "American black bear": {
+        "parent_class": "Mammal"
+    },
+    "polar bear": {
+        "parent_class": "Animal"
+    },
+    "sloth bear": {
+        "parent_class": "Mammal"
+    },
+    "mongoose": {
+        "parent_class": "Mammal"
+    },
+    "meerkat": {
+        "parent_class": "Mammal"
+    },
+    "tiger beetle": {
+        "parent_class": "Insect"
+    },
+    "ladybug": {
+        "parent_class": "Insect"
+    },
+    "ground beetle": {
+        "parent_class": "Insect"
+    },
+    "longhorn beetle": {
+        "parent_class": "Insect"
+    },
+    "leaf beetle": {
+        "parent_class": "Insect"
+    },
+    "dung beetle": {
+        "parent_class": "Insect"
+    },
+    "rhinoceros beetle": {
+        "parent_class": "Insect"
+    },
+    "weevil": {
+        "parent_class": "Insect"
+    },
+    "fly": {
+        "parent_class": "Insect"
+    },
+    "bee": {
+        "parent_class": "Insect"
+    },
+    "ant": {
+        "parent_class": "Insect"
+    },
+    "grasshopper": {
+        "parent_class": "Insect"
+    },
+    "cricket insect": {
+        "parent_class": "Animal"
+    },
+    "stick insect": {
+        "parent_class": "Animal"
+    },
+    "cockroach": {
+        "parent_class": "Insect"
+    },
+    "praying mantis": {
+        "parent_class": "Insect"
+    },
+    "cicada": {
+        "parent_class": "Insect"
+    },
+    "leafhopper": {
+        "parent_class": "Insect"
+    },
+    "lacewing": {
+        "parent_class": "Insect"
+    },
+    "dragonfly": {
+        "parent_class": "Insect"
+    },
+    "damselfly": {
+        "parent_class": "Insect"
+    },
+    "red admiral butterfly": {
+        "parent_class": "Insect"
+    },
+    "ringlet butterfly": {
+        "parent_class": "Insect"
+    },
+    "monarch butterfly": {
+        "parent_class": "Insect"
+    },
+    "small white butterfly": {
+        "parent_class": "Insect"
+    },
+    "sulphur butterfly": {
+        "parent_class": "Insect"
+    },
+    "gossamer-winged butterfly": {
+        "parent_class": "Insect"
+    },
+    "starfish": {
+        "parent_class": "Marine invertebrate"
+    },
+    "sea urchin": {
+        "parent_class": "Marine invertebrate animal"
+    },
+    "sea cucumber": {
+        "parent_class": "Marine invertebrate animal"
+    },
+    "cottontail rabbit": {
+        "parent_class": "Animal"
+    },
+    "hare": {
+        "parent_class": "Animal"
+    },
+    "Angora rabbit": {
+        "parent_class": "Animal"
+    },
+    "hamster": {
+        "parent_class": "Rodent"
+    },
+    "porcupine": {
+        "parent_class": "Animal"
+    },
+    "fox squirrel": {
+        "parent_class": "Rodent"
+    },
+    "marmot": {
+        "parent_class": "Rodent"
+    },
+    "beaver": {
+        "parent_class": "Rodent"
+    },
+    "guinea pig": {
+        "parent_class": "Rodent"
+    },
+    "common sorrel horse": {
+        "parent_class": "Equine"
+    },
+    "zebra": {
+        "parent_class": "Animal"
+    },
+    "pig": {
+        "parent_class": "Livestock animal"
+    },
+    "wild boar": {
+        "parent_class": "Animal"
+    },
+    "warthog": {
+        "parent_class": "Mammal"
+    },
+    "hippopotamus": {
+        "parent_class": "Large aquatic mammal"
+    },
+    "ox": {
+        "parent_class": "Livestock animal"
+    },
+    "water buffalo": {
+        "parent_class": "Large domesticated bovine animal"
+    },
+    "bison": {
+        "parent_class": "Large grazing mammal"
+    },
+    "ram (adult male sheep)": {
+        "parent_class": "Livestock animal"
+    },
+    "bighorn sheep": {
+        "parent_class": "Ungulate mammal"
+    },
+    "Alpine ibex": {
+        "parent_class": "Mammal"
+    },
+    "hartebeest": {
+        "parent_class": "Ungulate mammal"
+    },
+    "impala (antelope)": {
+        "parent_class": "Animal"
+    },
+    "gazelle": {
+        "parent_class": "Animal"
+    },
+    "arabian camel": {
+        "parent_class": "Mammal"
+    },
+    "llama": {
+        "parent_class": "Animal"
+    },
+    "weasel": {
+        "parent_class": "Animal"
+    },
+    "mink": {
+        "parent_class": "Animal"
+    },
+    "European polecat": {
+        "parent_class": "Mammal"
+    },
+    "black-footed ferret": {
+        "parent_class": "Mammal"
+    },
+    "otter": {
+        "parent_class": "Mammal"
+    },
+    "skunk": {
+        "parent_class": "Animal"
+    },
+    "badger": {
+        "parent_class": "Mammal"
+    },
+    "armadillo": {
+        "parent_class": "Animal"
+    },
+    "three-toed sloth": {
+        "parent_class": "Mammal"
+    },
+    "orangutan": {
+        "parent_class": "Animal"
+    },
+    "gorilla": {
+        "parent_class": "Animal"
+    },
+    "chimpanzee": {
+        "parent_class": "Animal"
+    },
+    "gibbon": {
+        "parent_class": "Primate"
+    },
+    "siamang": {
+        "parent_class": "Primate"
+    },
+    "guenon": {
+        "parent_class": "Primate"
+    },
+    "patas monkey": {
+        "parent_class": "Animal"
+    },
+    "baboon": {
+        "parent_class": "Animal"
+    },
+    "macaque": {
+        "parent_class": "Primate"
+    },
+    "langur": {
+        "parent_class": "Primate"
+    },
+    "black-and-white colobus": {
+        "parent_class": "Primate"
+    },
+    "proboscis monkey": {
+        "parent_class": "Mammal"
+    },
+    "marmoset": {
+        "parent_class": "Primate"
+    },
+    "white-headed capuchin": {
+        "parent_class": "Primate"
+    },
+    "howler monkey": {
+        "parent_class": "Animal"
+    },
+    "titi monkey": {
+        "parent_class": "Primate"
+    },
+    "Geoffroy's spider monkey": {
+        "parent_class": "Animal"
+    },
+    "common squirrel monkey": {
+        "parent_class": "Primate"
+    },
+    "ring-tailed lemur": {
+        "parent_class": "Animal"
+    },
+    "indri": {
+        "parent_class": "Primate mammal"
+    },
+    "Asian elephant": {
+        "parent_class": "Animal"
+    },
+    "African bush elephant": {
+        "parent_class": "Animal"
+    },
+    "red panda": {
+        "parent_class": "Mammal"
+    },
+    "giant panda": {
+        "parent_class": "Animal"
+    },
+    "snoek fish": {
+        "parent_class": "Fish"
+    },
+    "eel": {
+        "parent_class": "Fish"
+    },
+    "silver salmon": {
+        "parent_class": "Fish"
+    },
+    "rock beauty fish": {
+        "parent_class": "Marine reef fish"
+    },
+    "clownfish": {
+        "parent_class": "Marine fish"
+    },
+    "sturgeon": {
+        "parent_class": "Fish"
+    },
+    "gar fish": {
+        "parent_class": "Fish"
+    },
+    "lionfish": {
+        "parent_class": "Marine fish"
+    },
+    "pufferfish": {
+        "parent_class": "Marine animal"
+    },
+    "abacus": {
+        "parent_class": "Counting tool"
+    },
+    "abaya": {
+        "parent_class": "Clothing"
+    },
+    "academic gown": {
+        "parent_class": "Clothing"
+    },
+    "accordion": {
+        "parent_class": "Musical instrument"
+    },
+    "acoustic guitar": {
+        "parent_class": "Musical instrument"
+    },
+    "aircraft carrier": {
+        "parent_class": "Warship"
+    },
+    "airliner": {
+        "parent_class": "Vehicle"
+    },
+    "airship": {
+        "parent_class": "Aircraft"
+    },
+    "altar": {
+        "parent_class": "Religious furniture"
+    },
+    "ambulance": {
+        "parent_class": "Vehicle"
+    },
+    "amphibious vehicle": {
+        "parent_class": "Vehicle"
+    },
+    "analog clock": {
+        "parent_class": "Timekeeping device"
+    },
+    "apiary": {
+        "parent_class": "Agricultural structure"
+    },
+    "apron": {
+        "parent_class": "Clothing or protective garment"
+    },
+    "trash can": {
+        "parent_class": "Receptacle"
+    },
+    "assault rifle": {
+        "parent_class": "Firearm"
+    },
+    "backpack": {
+        "parent_class": "Carrying container"
+    },
+    "bakery": {
+        "parent_class": "Food preparation equipment"
+    },
+    "balance beam": {
+        "parent_class": "Sports equipment"
+    },
+    "balloon": {
+        "parent_class": "Inflatable object"
+    },
+    "ballpoint pen": {
+        "parent_class": "Writing instrument"
+    },
+    "Band-Aid": {
+        "parent_class": "Medical supply"
+    },
+    "banjo": {
+        "parent_class": "Musical instrument"
+    },
+    "baluster / handrail": {
+        "parent_class": "Architectural component"
+    },
+    "barbell": {
+        "parent_class": "Fitness equipment"
+    },
+    "barber chair": {
+        "parent_class": "Furniture"
+    },
+    "barbershop": {
+        "parent_class": "Service establishment"
+    },
+    "barn": {
+        "parent_class": "Building"
+    },
+    "barometer": {
+        "parent_class": "Measuring instrument"
+    },
+    "barrel": {
+        "parent_class": "Container"
+    },
+    "wheelbarrow": {
+        "parent_class": "Garden tool"
+    },
+    "baseball": {
+        "parent_class": "Sports equipment"
+    },
+    "basketball": {
+        "parent_class": "Sports equipment"
+    },
+    "bassinet": {
+        "parent_class": "Baby furniture"
+    },
+    "bassoon": {
+        "parent_class": "Woodwind musical instrument"
+    },
+    "swimming cap": {
+        "parent_class": "Headgear"
+    },
+    "bath towel": {
+        "parent_class": "Textile"
+    },
+    "bathtub": {
+        "parent_class": "Plumbing fixture"
+    },
+    "station wagon": {
+        "parent_class": "Vehicle"
+    },
+    "lighthouse": {
+        "parent_class": "Navigational aid structure"
+    },
+    "beaker": {
+        "parent_class": "Laboratory glassware"
+    },
+    "military hat (bearskin or shako)": {
+        "parent_class": "Headgear"
+    },
+    "beer bottle": {
+        "parent_class": "Container"
+    },
+    "beer glass": {
+        "parent_class": "Drinking vessel"
+    },
+    "bell tower": {
+        "parent_class": "Architectural structure"
+    },
+    "baby bib": {
+        "parent_class": "Clothing accessory"
+    },
+    "tandem bicycle": {
+        "parent_class": "Vehicle"
+    },
+    "bikini": {
+        "parent_class": "Clothing"
+    },
+    "ring binder": {
+        "parent_class": "Office supply"
+    },
+    "binoculars": {
+        "parent_class": "Optical instruments"
+    },
+    "birdhouse": {
+        "parent_class": "Shelter for birds"
+    },
+    "boathouse": {
+        "parent_class": "Shelter for boats"
+    },
+    "bobsleigh": {
+        "parent_class": "Sports equipment"
+    },
+    "bolo tie": {
+        "parent_class": "Neckwear"
+    },
+    "poke bonnet": {
+        "parent_class": "Headgear"
+    },
+    "bookcase": {
+        "parent_class": "Furniture"
+    },
+    "bookstore": {
+        "parent_class": "Retail establishment"
+    },
+    "bottle cap": {
+        "parent_class": "Fastener"
+    },
+    "hunting bow": {
+        "parent_class": "Weapon"
+    },
+    "bow tie": {
+        "parent_class": "Clothing accessory"
+    },
+    "brass memorial plaque": {
+        "parent_class": "Memorial object"
+    },
+    "bra": {
+        "parent_class": "Clothing"
+    },
+    "breakwater": {
+        "parent_class": "Coastal protection structure"
+    },
+    "breastplate": {
+        "parent_class": "Armor"
+    },
+    "broom": {
+        "parent_class": "Cleaning tool"
+    },
+    "bucket": {
+        "parent_class": "Furniture"
+    },
+    "buckle": {
+        "parent_class": "Fastening device"
+    },
+    "bulletproof vest": {
+        "parent_class": "Protective clothing"
+    },
+    "high-speed train": {
+        "parent_class": "Transportation vehicle"
+    },
+    "butcher shop": {
+        "parent_class": "Food retail establishment"
+    },
+    "taxicab": {
+        "parent_class": "Vehicle"
+    },
+    "cauldron": {
+        "parent_class": "Cooking vessel"
+    },
+    "candle": {
+        "parent_class": "Light source"
+    },
+    "cannon": {
+        "parent_class": "Artillery weapon"
+    },
+    "canoe": {
+        "parent_class": "Watercraft"
+    },
+    "can opener": {
+        "parent_class": "Kitchen utensil"
+    },
+    "cardigan": {
+        "parent_class": "Clothing"
+    },
+    "car mirror": {
+        "parent_class": "Vehicle safety component"
+    },
+    "carousel": {
+        "parent_class": "Furniture"
+    },
+    "tool kit": {
+        "parent_class": "Tool"
+    },
+    "cardboard box / carton": {
+        "parent_class": "Packaging container"
+    },
+    "car wheel": {
+        "parent_class": "Vehicle component"
+    },
+    "automated teller machine": {
+        "parent_class": "Financial service device"
+    },
+    "cassette": {
+        "parent_class": "Audio recording medium"
+    },
+    "cassette player": {
+        "parent_class": "Audio playback device"
+    },
+    "castle": {
+        "parent_class": "Fortified structure"
+    },
+    "catamaran": {
+        "parent_class": "Watercraft"
+    },
+    "CD player": {
+        "parent_class": "Audio playback device"
+    },
+    "cello": {
+        "parent_class": "String instrument"
+    },
+    "mobile phone": {
+        "parent_class": "Electronic device"
+    },
+    "chain": {
+        "parent_class": "Jewelry or hardware"
+    },
+    "chain-link fence": {
+        "parent_class": "Barrier structure"
+    },
+    "chain mail": {
+        "parent_class": "Armor"
+    },
+    "chainsaw": {
+        "parent_class": "Cutting tool"
+    },
+    "storage chest": {
+        "parent_class": "Furniture"
+    },
+    "chiffonier": {
+        "parent_class": "Furniture"
+    },
+    "bell or wind chime": {
+        "parent_class": "Musical instrument"
+    },
+    "china cabinet": {
+        "parent_class": "Furniture"
+    },
+    "Christmas stocking": {
+        "parent_class": "Clothing accessory"
+    },
+    "church": {
+        "parent_class": "Religious building"
+    },
+    "movie theater": {
+        "parent_class": "Entertainment venue"
+    },
+    "cleaver": {
+        "parent_class": "Kitchen cutting tool"
+    },
+    "cliff dwelling": {
+        "parent_class": "Architectural structure"
+    },
+    "cloak": {
+        "parent_class": "Garment"
+    },
+    "clogs": {
+        "parent_class": "Footwear"
+    },
+    "cocktail shaker": {
+        "parent_class": "Kitchen utensil"
+    },
+    "coffee mug": {
+        "parent_class": "Drinkware"
+    },
+    "coffeemaker": {
+        "parent_class": "Kitchen appliance"
+    },
+    "spiral or coil": {
+        "parent_class": "Springs"
+    },
+    "combination lock": {
+        "parent_class": "Security device"
+    },
+    "computer keyboard": {
+        "parent_class": "Input device"
+    },
+    "candy store": {
+        "parent_class": "Retail establishment"
+    },
+    "container ship": {
+        "parent_class": "Cargo vessel"
+    },
+    "convertible": {
+        "parent_class": "Vehicle"
+    },
+    "corkscrew": {
+        "parent_class": "Kitchen utensil"
+    },
+    "cornet": {
+        "parent_class": "Musical instrument"
+    },
+    "cowboy boot": {
+        "parent_class": "Footwear"
+    },
+    "cowboy hat": {
+        "parent_class": "Headwear"
+    },
+    "cradle": {
+        "parent_class": "Furniture"
+    },
+    "construction crane": {
+        "parent_class": "Construction equipment"
+    },
+    "crash helmet": {
+        "parent_class": "Protective headgear"
+    },
+    "crate": {
+        "parent_class": "Storage container"
+    },
+    "infant bed": {
+        "parent_class": "Furniture"
+    },
+    "Crock Pot": {
+        "parent_class": "Kitchen appliance"
+    },
+    "croquet ball": {
+        "parent_class": "Sports equipment"
+    },
+    "crutch": {
+        "parent_class": "Mobility aid"
+    },
+    "cuirass": {
+        "parent_class": "Armor"
+    },
+    "dam": {
+        "parent_class": "Water control structure"
+    },
+    "desk": {
+        "parent_class": "Furniture"
+    },
+    "desktop computer": {
+        "parent_class": "Electronic device"
+    },
+    "rotary dial telephone": {
+        "parent_class": "Communication device"
+    },
+    "diaper": {
+        "parent_class": "Clothing or Undergarment"
+    },
+    "digital clock": {
+        "parent_class": "Timekeeping device"
+    },
+    "digital watch": {
+        "parent_class": "Timekeeping device"
+    },
+    "dining table": {
+        "parent_class": "Furniture"
+    },
+    "dishcloth": {
+        "parent_class": "Cleaning tool"
+    },
+    "dishwasher": {
+        "parent_class": "Kitchen appliance"
+    },
+    "disc brake": {
+        "parent_class": "Vehicle braking system"
+    },
+    "dock": {
+        "parent_class": "Furniture"
+    },
+    "dog sled": {
+        "parent_class": "Vehicle"
+    },
+    "dome": {
+        "parent_class": "Architectural structure"
+    },
+    "doormat": {
+        "parent_class": "Household textile"
+    },
+    "drilling rig": {
+        "parent_class": "Heavy machinery"
+    },
+    "drum": {
+        "parent_class": "Percussion instrument"
+    },
+    "drumstick": {
+        "parent_class": "Kitchen utensil"
+    },
+    "dumbbell": {
+        "parent_class": "Exercise equipment"
+    },
+    "Dutch oven": {
+        "parent_class": "Cookware"
+    },
+    "electric fan": {
+        "parent_class": "Household appliance"
+    },
+    "electric guitar": {
+        "parent_class": "Musical instrument"
+    },
+    "electric locomotive": {
+        "parent_class": "Rail vehicle"
+    },
+    "entertainment center": {
+        "parent_class": "Furniture"
+    },
+    "envelope": {
+        "parent_class": "Container for documents"
+    },
+    "espresso machine": {
+        "parent_class": "Kitchen appliance"
+    },
+    "face powder": {
+        "parent_class": "Cosmetic product"
+    },
+    "feather boa": {
+        "parent_class": "Clothing accessory"
+    },
+    "filing cabinet": {
+        "parent_class": "Office furniture"
+    },
+    "fireboat": {
+        "parent_class": "Watercraft"
+    },
+    "fire truck": {
+        "parent_class": "Emergency vehicle"
+    },
+    "fire screen": {
+        "parent_class": "Furniture accessory"
+    },
+    "flagpole": {
+        "parent_class": "Vertical support structure"
+    },
+    "flute": {
+        "parent_class": "Musical wind instrument"
+    },
+    "folding chair": {
+        "parent_class": "Furniture"
+    },
+    "football helmet": {
+        "parent_class": "Protective headgear"
+    },
+    "forklift": {
+        "parent_class": "Material handling equipment"
+    },
+    "fountain": {
+        "parent_class": "Writing instrument"
+    },
+    "fountain pen": {
+        "parent_class": "Writing instrument"
+    },
+    "four-poster bed": {
+        "parent_class": "Furniture"
+    },
+    "freight car": {
+        "parent_class": "Freight railcar"
+    },
+    "French horn": {
+        "parent_class": "Musical brass instrument"
+    },
+    "frying pan": {
+        "parent_class": "Cooking utensil"
+    },
+    "fur coat": {
+        "parent_class": "Clothing"
+    },
+    "garbage truck": {
+        "parent_class": "Vehicle"
+    },
+    "gas mask or respirator": {
+        "parent_class": "Personal protective equipment"
+    },
+    "gas pump": {
+        "parent_class": "Fuel dispensing equipment"
+    },
+    "goblet": {
+        "parent_class": "Drinking vessel"
+    },
+    "go-kart": {
+        "parent_class": "Vehicle"
+    },
+    "golf ball": {
+        "parent_class": "Sports equipment"
+    },
+    "golf cart": {
+        "parent_class": "Vehicle"
+    },
+    "gondola": {
+        "parent_class": "Furniture"
+    },
+    "gong": {
+        "parent_class": "Musical instrument"
+    },
+    "gown": {
+        "parent_class": "Clothing"
+    },
+    "grand piano": {
+        "parent_class": "Musical instrument"
+    },
+    "greenhouse": {
+        "parent_class": "Building or structure"
+    },
+    "radiator grille": {
+        "parent_class": "Vehicle front component"
+    },
+    "grocery store": {
+        "parent_class": "Retail establishment"
+    },
+    "guillotine": {
+        "parent_class": "Execution device"
+    },
+    "hair clip": {
+        "parent_class": "Hair accessory"
+    },
+    "hair spray": {
+        "parent_class": "Personal care product"
+    },
+    "half-track": {
+        "parent_class": "Military vehicle"
+    },
+    "hammer": {
+        "parent_class": "Tool"
+    },
+    "hamper": {
+        "parent_class": "Storage container"
+    },
+    "hair dryer": {
+        "parent_class": "Personal care appliance"
+    },
+    "hand-held computer": {
+        "parent_class": "Portable electronic device"
+    },
+    "handkerchief": {
+        "parent_class": "Fabric accessory"
+    },
+    "hard disk drive": {
+        "parent_class": "Data storage device"
+    },
+    "harmonica": {
+        "parent_class": "Musical Instrument"
+    },
+    "harp": {
+        "parent_class": "Musical instrument"
+    },
+    "combine harvester": {
+        "parent_class": "Agricultural machinery"
+    },
+    "hatchet": {
+        "parent_class": "Cutting tool"
+    },
+    "holster": {
+        "parent_class": "Carrying device"
+    },
+    "home theater": {
+        "parent_class": "Audio-visual entertainment system"
+    },
+    "honeycomb": {
+        "parent_class": "Natural structure"
+    },
+    "hook": {
+        "parent_class": "Fastener"
+    },
+    "hoop skirt": {
+        "parent_class": "Garment support structure"
+    },
+    "gymnastic horizontal bar": {
+        "parent_class": "Athletic equipment"
+    },
+    "horse-drawn vehicle": {
+        "parent_class": "Transportation vehicle"
+    },
+    "hourglass": {
+        "parent_class": "Timekeeping device"
+    },
+    "iPod": {
+        "parent_class": "Portable media player"
+    },
+    "clothes iron": {
+        "parent_class": "Household appliance"
+    },
+    "carved pumpkin": {
+        "parent_class": "Decorative object"
+    },
+    "jeans": {
+        "parent_class": "Clothing"
+    },
+    "jeep": {
+        "parent_class": "Vehicle"
+    },
+    "T-shirt": {
+        "parent_class": "Clothing"
+    },
+    "jigsaw puzzle": {
+        "parent_class": "Game or educational tool"
+    },
+    "rickshaw": {
+        "parent_class": "Vehicle for human transport"
+    },
+    "joystick": {
+        "parent_class": "Input device"
+    },
+    "kimono": {
+        "parent_class": "Clothing"
+    },
+    "knee pad": {
+        "parent_class": "Protective sports equipment"
+    },
+    "knot": {
+        "parent_class": "Fastening device"
+    },
+    "lab coat": {
+        "parent_class": "Clothing"
+    },
+    "ladle": {
+        "parent_class": "Kitchen utensil"
+    },
+    "lampshade": {
+        "parent_class": "Lighting accessory"
+    },
+    "laptop computer": {
+        "parent_class": "Electronic device"
+    },
+    "lawn mower": {
+        "parent_class": "Garden tool"
+    },
+    "lens cap": {
+        "parent_class": "Photographic equipment accessory"
+    },
+    "letter opener": {
+        "parent_class": "Office supply"
+    },
+    "library": {
+        "parent_class": "Information storage system"
+    },
+    "lifeboat": {
+        "parent_class": "Safety equipment"
+    },
+    "lighter": {
+        "parent_class": "Tool"
+    },
+    "limousine": {
+        "parent_class": "Vehicle"
+    },
+    "ocean liner": {
+        "parent_class": "Ship"
+    },
+    "lipstick": {
+        "parent_class": "Cosmetic product"
+    },
+    "slip-on shoe": {
+        "parent_class": "Footwear"
+    },
+    "lotion": {
+        "parent_class": "Personal care product"
+    },
+    "music speaker": {
+        "parent_class": "Audio playback device"
+    },
+    "loupe magnifying glass": {
+        "parent_class": "Optical instrument"
+    },
+    "sawmill": {
+        "parent_class": "Industrial wood processing facility"
+    },
+    "magnetic compass": {
+        "parent_class": "Navigation instrument"
+    },
+    "messenger bag": {
+        "parent_class": "Carrying bag"
+    },
+    "mailbox": {
+        "parent_class": "Mail receptacle"
+    },
+    "tights": {
+        "parent_class": "Clothing"
+    },
+    "one-piece bathing suit": {
+        "parent_class": "Clothing"
+    },
+    "manhole cover": {
+        "parent_class": "Street furniture"
+    },
+    "maraca": {
+        "parent_class": "Musical instrument"
+    },
+    "marimba": {
+        "parent_class": "Percussion musical instrument"
+    },
+    "mask": {
+        "parent_class": "Face covering"
+    },
+    "matchstick": {
+        "parent_class": "Tool or Toy"
+    },
+    "maypole": {
+        "parent_class": "Decorative pole"
+    },
+    "maze": {
+        "parent_class": "Puzzle"
+    },
+    "measuring cup": {
+        "parent_class": "Kitchen utensil"
+    },
+    "medicine cabinet": {
+        "parent_class": "Storage furniture"
+    },
+    "megalith": {
+        "parent_class": "Monumental stone structure"
+    },
+    "microphone": {
+        "parent_class": "Audio input device"
+    },
+    "microwave oven": {
+        "parent_class": "Kitchen appliance"
+    },
+    "military uniform": {
+        "parent_class": "Clothing"
+    },
+    "milk can": {
+        "parent_class": "Container"
+    },
+    "minibus": {
+        "parent_class": "Vehicle"
+    },
+    "miniskirt": {
+        "parent_class": "Clothing"
+    },
+    "minivan": {
+        "parent_class": "Vehicle"
+    },
+    "missile": {
+        "parent_class": "Weapon"
+    },
+    "mitten": {
+        "parent_class": "Handwear"
+    },
+    "mixing bowl": {
+        "parent_class": "Kitchen utensil"
+    },
+    "mobile home": {
+        "parent_class": "Transportable dwelling structure"
+    },
+    "ford model t": {
+        "parent_class": "Automobile"
+    },
+    "modem": {
+        "parent_class": "Communication device"
+    },
+    "monastery": {
+        "parent_class": "Religious building"
+    },
+    "monitor": {
+        "parent_class": "Electronic display device"
+    },
+    "moped": {
+        "parent_class": "Motorized two-wheeled vehicle"
+    },
+    "mortar and pestle": {
+        "parent_class": "Kitchen utensil"
+    },
+    "graduation cap": {
+        "parent_class": "Headwear"
+    },
+    "mosque": {
+        "parent_class": "Religious building"
+    },
+    "mosquito net": {
+        "parent_class": "Bedding protection"
+    },
+    "vespa": {
+        "parent_class": "Motor vehicle"
+    },
+    "mountain bike": {
+        "parent_class": "Vehicle"
+    },
+    "tent": {
+        "parent_class": "Shelter"
+    },
+    "computer mouse": {
+        "parent_class": "Input device"
+    },
+    "mousetrap": {
+        "parent_class": "Pest control device"
+    },
+    "moving van": {
+        "parent_class": "Vehicle"
+    },
+    "muzzle": {
+        "parent_class": "Protective covering for face"
+    },
+    "metal nail": {
+        "parent_class": "Fastener"
+    },
+    "neck brace": {
+        "parent_class": "Medical support device"
+    },
+    "necklace": {
+        "parent_class": "Jewelry"
+    },
+    "baby pacifier": {
+        "parent_class": "Infant care product"
+    },
+    "notebook computer": {
+        "parent_class": "Portable computing device"
+    },
+    "obelisk": {
+        "parent_class": "Monumental stone pillar"
+    },
+    "oboe": {
+        "parent_class": "Musical instrument"
+    },
+    "ocarina": {
+        "parent_class": "Musical wind instrument"
+    },
+    "odometer": {
+        "parent_class": "Measuring instrument"
+    },
+    "oil filter": {
+        "parent_class": "Automotive component"
+    },
+    "pipe organ": {
+        "parent_class": "Musical instrument"
+    },
+    "oscilloscope": {
+        "parent_class": "Electronic measuring instrument"
+    },
+    "overskirt": {
+        "parent_class": "Clothing accessory"
+    },
+    "bullock cart": {
+        "parent_class": "Animal-drawn vehicle"
+    },
+    "oxygen mask": {
+        "parent_class": "Safety equipment"
+    },
+    "product packet / packaging": {
+        "parent_class": "Packaging"
+    },
+    "paddle": {
+        "parent_class": "Sports equipment"
+    },
+    "paddle wheel": {
+        "parent_class": "Mechanical device"
+    },
+    "padlock": {
+        "parent_class": "Security device"
+    },
+    "paintbrush": {
+        "parent_class": "Art tool"
+    },
+    "pajamas": {
+        "parent_class": "Clothing"
+    },
+    "palace": {
+        "parent_class": "Royal residence"
+    },
+    "pan flute": {
+        "parent_class": "Musical wind instrument"
+    },
+    "paper towel": {
+        "parent_class": "Absorbent paper product"
+    },
+    "parachute": {
+        "parent_class": "Aerial descent device"
+    },
+    "parallel bars": {
+        "parent_class": "Gymnastics equipment"
+    },
+    "park bench": {
+        "parent_class": "Furniture"
+    },
+    "parking meter": {
+        "parent_class": "Traffic control device"
+    },
+    "railroad car": {
+        "parent_class": "Rolling stock"
+    },
+    "patio": {
+        "parent_class": "Outdoor living space"
+    },
+    "payphone": {
+        "parent_class": "Public communication device"
+    },
+    "pedestal": {
+        "parent_class": "Furniture"
+    },
+    "pencil case": {
+        "parent_class": "School supply"
+    },
+    "pencil sharpener": {
+        "parent_class": "Office supply"
+    },
+    "perfume": {
+        "parent_class": "Personal care product"
+    },
+    "Petri dish": {
+        "parent_class": "Laboratory equipment"
+    },
+    "photocopier": {
+        "parent_class": "Office equipment"
+    },
+    "plectrum": {
+        "parent_class": "Musical instrument accessory"
+    },
+    "Pickelhaube": {
+        "parent_class": "Military headgear"
+    },
+    "picket fence": {
+        "parent_class": "Outdoor structure"
+    },
+    "pickup truck": {
+        "parent_class": "Vehicle"
+    },
+    "pier": {
+        "parent_class": "Structure"
+    },
+    "piggy bank": {
+        "parent_class": "Container for saving money"
+    },
+    "pill bottle": {
+        "parent_class": "Medical container"
+    },
+    "pillow": {
+        "parent_class": "Bedding"
+    },
+    "ping-pong ball": {
+        "parent_class": "Sports equipment"
+    },
+    "pinwheel": {
+        "parent_class": "Toy"
+    },
+    "pirate ship": {
+        "parent_class": "Watercraft"
+    },
+    "drink pitcher": {
+        "parent_class": "Kitchenware"
+    },
+    "block plane": {
+        "parent_class": "Hand tool"
+    },
+    "planetarium": {
+        "parent_class": "Educational facility"
+    },
+    "plastic bag": {
+        "parent_class": "Packaging container"
+    },
+    "plate rack": {
+        "parent_class": "Kitchen storage accessory"
+    },
+    "farm plow": {
+        "parent_class": "Agricultural implement"
+    },
+    "plunger": {
+        "parent_class": "Cleaning tool"
+    },
+    "Polaroid camera": {
+        "parent_class": "Photographic equipment"
+    },
+    "pole": {
+        "parent_class": "Tool or weapon"
+    },
+    "police van": {
+        "parent_class": "Vehicle"
+    },
+    "poncho": {
+        "parent_class": "Clothing"
+    },
+    "pool table": {
+        "parent_class": "Furniture"
+    },
+    "soda bottle": {
+        "parent_class": "Container"
+    },
+    "plant pot": {
+        "parent_class": "Container"
+    },
+    "potter's wheel": {
+        "parent_class": "Tool for shaping clay"
+    },
+    "power drill": {
+        "parent_class": "Tool"
+    },
+    "prayer rug": {
+        "parent_class": "Religious textile"
+    },
+    "printer": {
+        "parent_class": "Output device"
+    },
+    "prison": {
+        "parent_class": "Correctional facility"
+    },
+    "projector": {
+        "parent_class": "Electronics"
+    },
+    "hockey puck": {
+        "parent_class": "Sports equipment"
+    },
+    "punching bag": {
+        "parent_class": "Sports training equipment"
+    },
+    "purse": {
+        "parent_class": "Bag"
+    },
+    "quill": {
+        "parent_class": "Writing instrument"
+    },
+    "quilt": {
+        "parent_class": "Bedding"
+    },
+    "race car": {
+        "parent_class": "Vehicle"
+    },
+    "racket": {
+        "parent_class": "Sports equipment"
+    },
+    "radiator": {
+        "parent_class": "Heating device"
+    },
+    "radio": {
+        "parent_class": "Communication device"
+    },
+    "radio telescope": {
+        "parent_class": "Scientific instrument"
+    },
+    "rain barrel": {
+        "parent_class": "Water storage container"
+    },
+    "recreational vehicle": {
+        "parent_class": "Motor vehicle"
+    },
+    "fishing casting reel": {
+        "parent_class": "Sporting equipment"
+    },
+    "reflex camera": {
+        "parent_class": "Photographic equipment"
+    },
+    "refrigerator": {
+        "parent_class": "Kitchen appliance"
+    },
+    "remote control": {
+        "parent_class": "Electronic device controller"
+    },
+    "restaurant": {
+        "parent_class": "Food service establishment"
+    },
+    "revolver": {
+        "parent_class": "Firearm"
+    },
+    "rifle": {
+        "parent_class": "Firearm"
+    },
+    "rocking chair": {
+        "parent_class": "Furniture"
+    },
+    "rotisserie": {
+        "parent_class": "Cooking appliance"
+    },
+    "eraser": {
+        "parent_class": "Office supply"
+    },
+    "rugby ball": {
+        "parent_class": "Sports equipment"
+    },
+    "ruler measuring stick": {
+        "parent_class": "Measuring tool"
+    },
+    "sneaker": {
+        "parent_class": "Footwear"
+    },
+    "safe": {
+        "parent_class": "Safety equipment"
+    },
+    "safety pin": {
+        "parent_class": "Fastening device"
+    },
+    "salt shaker": {
+        "parent_class": "Kitchen utensil"
+    },
+    "sandal": {
+        "parent_class": "Footwear"
+    },
+    "sarong": {
+        "parent_class": "Clothing"
+    },
+    "saxophone": {
+        "parent_class": "Musical wind instrument"
+    },
+    "scabbard": {
+        "parent_class": "Container for blades"
+    },
+    "weighing scale": {
+        "parent_class": "Measuring instrument"
+    },
+    "school bus": {
+        "parent_class": "Vehicle"
+    },
+    "schooner": {
+        "parent_class": "Watercraft"
+    },
+    "scoreboard": {
+        "parent_class": "Sports equipment"
+    },
+    "CRT monitor": {
+        "parent_class": "Electronic display device"
+    },
+    "screw": {
+        "parent_class": "Fastener"
+    },
+    "screwdriver": {
+        "parent_class": "Hand tool"
+    },
+    "seat belt": {
+        "parent_class": "Safety restraint device"
+    },
+    "sewing machine": {
+        "parent_class": "Tool"
+    },
+    "shield": {
+        "parent_class": "Protective gear"
+    },
+    "shoe store": {
+        "parent_class": "Footwear retail establishment"
+    },
+    "shoji screen / room divider": {
+        "parent_class": "Furniture"
+    },
+    "shopping basket": {
+        "parent_class": "Container for holding items"
+    },
+    "shopping cart": {
+        "parent_class": "Container for goods"
+    },
+    "shovel": {
+        "parent_class": "Digging tool"
+    },
+    "shower cap": {
+        "parent_class": "Personal hygiene accessory"
+    },
+    "shower curtain": {
+        "parent_class": "Textile Furnishing"
+    },
+    "ski": {
+        "parent_class": "Sports equipment"
+    },
+    "balaclava ski mask": {
+        "parent_class": "Clothing"
+    },
+    "sleeping bag": {
+        "parent_class": "Outdoor Gear"
+    },
+    "slide rule": {
+        "parent_class": "Measuring instrument"
+    },
+    "sliding door": {
+        "parent_class": "Door"
+    },
+    "slot machine": {
+        "parent_class": "Gambling device"
+    },
+    "snorkel": {
+        "parent_class": "Sports equipment"
+    },
+    "snowmobile": {
+        "parent_class": "Vehicle"
+    },
+    "snowplow": {
+        "parent_class": "Vehicle or equipment"
+    },
+    "soap dispenser": {
+        "parent_class": "Household container"
+    },
+    "soccer ball": {
+        "parent_class": "Sports equipment"
+    },
+    "sock": {
+        "parent_class": "Clothing"
+    },
+    "solar thermal collector": {
+        "parent_class": "Heat transfer device"
+    },
+    "sombrero": {
+        "parent_class": "Headwear"
+    },
+    "soup bowl": {
+        "parent_class": "Dishware"
+    },
+    "keyboard space bar": {
+        "parent_class": "Input device component"
+    },
+    "space heater": {
+        "parent_class": "Heating appliance"
+    },
+    "space shuttle": {
+        "parent_class": "Spacecraft"
+    },
+    "spatula": {
+        "parent_class": "Kitchen utensil"
+    },
+    "motorboat": {
+        "parent_class": "Watercraft"
+    },
+    "spider web": {
+        "parent_class": "Animal-made structure"
+    },
+    "spindle": {
+        "parent_class": "Tool"
+    },
+    "sports car": {
+        "parent_class": "Vehicle"
+    },
+    "spotlight": {
+        "parent_class": "Furniture"
+    },
+    "stage": {
+        "parent_class": "Furniture"
+    },
+    "steam locomotive": {
+        "parent_class": "Railway vehicle"
+    },
+    "through arch bridge": {
+        "parent_class": "Structural bridge type"
+    },
+    "steel drum": {
+        "parent_class": "Musical percussion instrument"
+    },
+    "stethoscope": {
+        "parent_class": "Medical diagnostic instrument"
+    },
+    "scarf": {
+        "parent_class": "Clothing accessory"
+    },
+    "stone wall": {
+        "parent_class": "Barrier structure"
+    },
+    "stopwatch": {
+        "parent_class": "Timekeeping device"
+    },
+    "stove": {
+        "parent_class": "Kitchen appliance"
+    },
+    "strainer": {
+        "parent_class": "Kitchen utensil"
+    },
+    "tram": {
+        "parent_class": "Vehicle"
+    },
+    "stretcher": {
+        "parent_class": "Medical equipment"
+    },
+    "couch": {
+        "parent_class": "Furniture"
+    },
+    "stupa": {
+        "parent_class": "Religious monument"
+    },
+    "submarine": {
+        "parent_class": "Watercraft"
+    },
+    "suit": {
+        "parent_class": "Furniture"
+    },
+    "sundial": {
+        "parent_class": "Timekeeping instrument"
+    },
+    "sunglasses": {
+        "parent_class": "Eyewear"
+    },
+    "sunscreen": {
+        "parent_class": "Personal care product"
+    },
+    "suspension bridge": {
+        "parent_class": "Civil engineering structure"
+    },
+    "mop": {
+        "parent_class": "Cleaning tool"
+    },
+    "sweatshirt": {
+        "parent_class": "Clothing"
+    },
+    "swim trunks / shorts": {
+        "parent_class": "Clothing"
+    },
+    "swing": {
+        "parent_class": "Musical instrument"
+    },
+    "electrical switch": {
+        "parent_class": "Electrical component"
+    },
+    "syringe": {
+        "parent_class": "Medical instrument"
+    },
+    "table lamp": {
+        "parent_class": "Lighting fixture"
+    },
+    "tank": {
+        "parent_class": "Military vehicle"
+    },
+    "tape player": {
+        "parent_class": "Audio playback device"
+    },
+    "teapot": {
+        "parent_class": "Kitchenware"
+    },
+    "teddy bear": {
+        "parent_class": "Soft toy"
+    },
+    "television": {
+        "parent_class": "Electronic device"
+    },
+    "tennis ball": {
+        "parent_class": "Sports equipment"
+    },
+    "thatched roof": {
+        "parent_class": "Building covering"
+    },
+    "front curtain": {
+        "parent_class": "Window covering"
+    },
+    "thimble": {
+        "parent_class": "Sewing accessory"
+    },
+    "threshing machine": {
+        "parent_class": "Agricultural equipment"
+    },
+    "throne": {
+        "parent_class": "Furniture"
+    },
+    "tile roof": {
+        "parent_class": "Building material"
+    },
+    "toaster": {
+        "parent_class": "Kitchen appliance"
+    },
+    "tobacco shop": {
+        "parent_class": "Retail establishment"
+    },
+    "toilet seat": {
+        "parent_class": "Furniture"
+    },
+    "torch": {
+        "parent_class": "Tool or light source"
+    },
+    "totem pole": {
+        "parent_class": "Ceremonial carved column"
+    },
+    "tow truck": {
+        "parent_class": "Vehicle recovery equipment"
+    },
+    "toy store": {
+        "parent_class": "Retail establishment"
+    },
+    "tractor": {
+        "parent_class": "Vehicle"
+    },
+    "semi-trailer truck": {
+        "parent_class": "Commercial vehicle"
+    },
+    "tray": {
+        "parent_class": "Food service item"
+    },
+    "trench coat": {
+        "parent_class": "Outerwear"
+    },
+    "tricycle": {
+        "parent_class": "Vehicle"
+    },
+    "trimaran": {
+        "parent_class": "Multi-hulled watercraft"
+    },
+    "tripod": {
+        "parent_class": "Photographic equipment"
+    },
+    "triumphal arch": {
+        "parent_class": "Monumental gateway structure"
+    },
+    "trolleybus": {
+        "parent_class": "Public transport vehicle"
+    },
+    "trombone": {
+        "parent_class": "Musical instrument"
+    },
+    "hot tub": {
+        "parent_class": "Leisure equipment"
+    },
+    "turnstile": {
+        "parent_class": "Access control device"
+    },
+    "typewriter keyboard": {
+        "parent_class": "Input device"
+    },
+    "umbrella": {
+        "parent_class": "Container or shelter"
+    },
+    "unicycle": {
+        "parent_class": "Vehicle"
+    },
+    "upright piano": {
+        "parent_class": "Musical instrument"
+    },
+    "vacuum cleaner": {
+        "parent_class": "Household appliance"
+    },
+    "vase": {
+        "parent_class": "Decorative container"
+    },
+    "vaulted or arched ceiling": {
+        "parent_class": "Architectural feature"
+    },
+    "velvet fabric": {
+        "parent_class": "Textile"
+    },
+    "vending machine": {
+        "parent_class": "Retail dispensing equipment"
+    },
+    "vestment": {
+        "parent_class": "Clothing"
+    },
+    "viaduct": {
+        "parent_class": "Bridge structure"
+    },
+    "violin": {
+        "parent_class": "Musical instrument"
+    },
+    "volleyball": {
+        "parent_class": "Sports equipment"
+    },
+    "waffle iron": {
+        "parent_class": "Kitchen appliance"
+    },
+    "wall clock": {
+        "parent_class": "Timekeeping device"
+    },
+    "wallet": {
+        "parent_class": "Carrying accessory"
+    },
+    "wardrobe": {
+        "parent_class": "Clothing and accessories"
+    },
+    "military aircraft": {
+        "parent_class": "Combat aircraft"
+    },
+    "sink": {
+        "parent_class": "Plumbing fixture"
+    },
+    "washing machine": {
+        "parent_class": "Household appliance"
+    },
+    "water bottle": {
+        "parent_class": "Container for liquids"
+    },
+    "water jug": {
+        "parent_class": "Container"
+    },
+    "water tower": {
+        "parent_class": "Water storage structure"
+    },
+    "whiskey jug": {
+        "parent_class": "Container"
+    },
+    "whistle": {
+        "parent_class": "Musical instrument"
+    },
+    "hair wig": {
+        "parent_class": "Head covering accessory"
+    },
+    "window screen": {
+        "parent_class": "Building component"
+    },
+    "window shade": {
+        "parent_class": "Window covering"
+    },
+    "Windsor tie": {
+        "parent_class": "Neckwear"
+    },
+    "wine bottle": {
+        "parent_class": "Container"
+    },
+    "airplane wing": {
+        "parent_class": "Aerodynamic surface"
+    },
+    "wok": {
+        "parent_class": "Cooking vessel"
+    },
+    "wooden spoon": {
+        "parent_class": "Kitchen utensil"
+    },
+    "wool": {
+        "parent_class": "Textile"
+    },
+    "split-rail fence": {
+        "parent_class": "Fence"
+    },
+    "shipwreck": {
+        "parent_class": "Maritime vessel remains"
+    },
+    "sailboat": {
+        "parent_class": "Watercraft"
+    },
+    "yurt": {
+        "parent_class": "Temporary shelter structure"
+    },
+    "website": {
+        "parent_class": "Website classification category"
+    },
+    "comic book": {
+        "parent_class": "Entertainment media"
+    },
+    "crossword": {
+        "parent_class": "Puzzle"
+    },
+    "traffic or street sign": {
+        "parent_class": "Road safety equipment"
+    },
+    "traffic light": {
+        "parent_class": "Road safety device"
+    },
+    "dust jacket": {
+        "parent_class": "Book cover accessory"
+    },
+    "menu": {
+        "parent_class": "Furniture"
+    },
+    "plate": {
+        "parent_class": "Dinnerware"
+    },
+    "guacamole": {
+        "parent_class": "Food"
+    },
+    "consomme": {
+        "parent_class": "Soup"
+    },
+    "hot pot": {
+        "parent_class": "Cooking vessel"
+    },
+    "trifle": {
+        "parent_class": "Dessert"
+    },
+    "ice cream": {
+        "parent_class": "Frozen dessert"
+    },
+    "popsicle": {
+        "parent_class": "Food"
+    },
+    "baguette": {
+        "parent_class": "Food"
+    },
+    "bagel": {
+        "parent_class": "Bread product"
+    },
+    "pretzel": {
+        "parent_class": "Baked snack food"
+    },
+    "cheeseburger": {
+        "parent_class": "Food"
+    },
+    "hot dog": {
+        "parent_class": "Sandwich"
+    },
+    "mashed potatoes": {
+        "parent_class": "Food"
+    },
+    "cabbage": {
+        "parent_class": "Vegetable"
+    },
+    "broccoli": {
+        "parent_class": "Vegetable"
+    },
+    "cauliflower": {
+        "parent_class": "Vegetable"
+    },
+    "zucchini": {
+        "parent_class": "Vegetable"
+    },
+    "spaghetti squash": {
+        "parent_class": "Vegetable"
+    },
+    "acorn squash": {
+        "parent_class": "Vegetable"
+    },
+    "butternut squash": {
+        "parent_class": "Vegetable"
+    },
+    "cucumber": {
+        "parent_class": "Vegetable"
+    },
+    "artichoke": {
+        "parent_class": "Vegetable"
+    },
+    "bell pepper": {
+        "parent_class": "Vegetable"
+    },
+    "cardoon": {
+        "parent_class": "Vegetable"
+    },
+    "mushroom": {
+        "parent_class": "Fungus"
+    },
+    "Granny Smith apple": {
+        "parent_class": "Fruit"
+    },
+    "strawberry": {
+        "parent_class": "Fruit"
+    },
+    "orange": {
+        "parent_class": "Fruit"
+    },
+    "lemon": {
+        "parent_class": "Fruit"
+    },
+    "fig": {
+        "parent_class": "Fruit"
+    },
+    "pineapple": {
+        "parent_class": "Fruit"
+    },
+    "banana": {
+        "parent_class": "Fruit"
+    },
+    "jackfruit": {
+        "parent_class": "Fruit"
+    },
+    "cherimoya (custard apple)": {
+        "parent_class": "Fruit"
+    },
+    "pomegranate": {
+        "parent_class": "Fruit"
+    },
+    "hay": {
+        "parent_class": "Plant material for animal feed"
+    },
+    "carbonara": {
+        "parent_class": "Pasta dish"
+    },
+    "chocolate syrup": {
+        "parent_class": "Condiment or topping"
+    },
+    "dough": {
+        "parent_class": "Food ingredient"
+    },
+    "meatloaf": {
+        "parent_class": "Food dish"
+    },
+    "pizza": {
+        "parent_class": "Food"
+    },
+    "pot pie": {
+        "parent_class": "Food dish"
+    },
+    "burrito": {
+        "parent_class": "Food item"
+    },
+    "red wine": {
+        "parent_class": "Beverage"
+    },
+    "espresso": {
+        "parent_class": "Beverage"
+    },
+    "tea cup": {
+        "parent_class": "Drinking vessel"
+    },
+    "eggnog": {
+        "parent_class": "Beverage"
+    },
+    "mountain": {
+        "parent_class": "Natural landform"
+    },
+    "bubble": {
+        "parent_class": "Container"
+    },
+    "cliff": {
+        "parent_class": "Geological landform"
+    },
+    "coral reef": {
+        "parent_class": "Marine ecosystem"
+    },
+    "geyser": {
+        "parent_class": "Natural water feature"
+    },
+    "lakeshore": {
+        "parent_class": "Natural feature"
+    },
+    "promontory": {
+        "parent_class": "Geographical landform"
+    },
+    "sandbar": {
+        "parent_class": "Landform"
+    },
+    "beach": {
+        "parent_class": "Natural landform"
+    },
+    "valley": {
+        "parent_class": "Geographical feature"
+    },
+    "volcano": {
+        "parent_class": "Landform"
+    },
+    "baseball player": {
+        "parent_class": "Sports equipment"
+    },
+    "bridegroom": {
+        "parent_class": "Human"
+    },
+    "scuba diver": {
+        "parent_class": "Aquatic equipment user"
+    },
+    "rapeseed": {
+        "parent_class": "Oilseed crop"
+    },
+    "daisy": {
+        "parent_class": "Flowering plant"
+    },
+    "yellow lady's slipper": {
+        "parent_class": "Orchid"
+    },
+    "corn": {
+        "parent_class": "Food grain"
+    },
+    "acorn": {
+        "parent_class": "Plant reproductive structure"
+    },
+    "rose hip": {
+        "parent_class": "Fruit"
+    },
+    "horse chestnut seed": {
+        "parent_class": "Plant reproductive structure"
+    },
+    "coral fungus": {
+        "parent_class": "Fungi"
+    },
+    "agaric": {
+        "parent_class": "Fungi"
+    },
+    "gyromitra": {
+        "parent_class": "Fungi"
+    },
+    "stinkhorn mushroom": {
+        "parent_class": "Fungi"
+    },
+    "earth star fungus": {
+        "parent_class": "Fungi"
+    },
+    "hen of the woods mushroom": {
+        "parent_class": "Fungus"
+    },
+    "bolete": {
+        "parent_class": "Fungi"
+    },
+    "corn cob": {
+        "parent_class": "Plant-based food waste"
+    },
+    "toilet paper": {
+        "parent_class": "Hygiene product"
+    }
+}

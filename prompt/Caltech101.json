@@ -1,0 +1,302 @@
+{
+    "face": {
+        "parent_class": "tool"
+    },
+    "leopard": {
+        "parent_class": "animal"
+    },
+    "motorbike": {
+        "parent_class": "vehicle"
+    },
+    "accordion": {
+        "parent_class": "musical instrument"
+    },
+    "airplane": {
+        "parent_class": "vehicle"
+    },
+    "anchor": {
+        "parent_class": "tool"
+    },
+    "ant": {
+        "parent_class": "insect"
+    },
+    "barrel": {
+        "parent_class": "storage container"
+    },
+    "bass": {
+        "parent_class": "musical instrument"
+    },
+    "beaver": {
+        "parent_class": "animal"
+    },
+    "binocular": {
+        "parent_class": "optical instrument"
+    },
+    "bonsai": {
+        "parent_class": "decorative living sculpture"
+    },
+    "brain": {
+        "parent_class": "organ"
+    },
+    "brontosaurus": {
+        "parent_class": "dinosaur"
+    },
+    "buddha": {
+        "parent_class": "religious statue"
+    },
+    "butterfly": {
+        "parent_class": "insect"
+    },
+    "camera": {
+        "parent_class": "imaging device"
+    },
+    "cannon": {
+        "parent_class": "weapon"
+    },
+    "car side": {
+        "parent_class": "vehicle component"
+    },
+    "ceiling fan": {
+        "parent_class": "household appliance"
+    },
+    "cellphone": {
+        "parent_class": "communication device"
+    },
+    "chair": {
+        "parent_class": "furniture"
+    },
+    "chandelier": {
+        "parent_class": "lighting fixture"
+    },
+    "cougar body": {
+        "parent_class": "vehicle"
+    },
+    "cougar face": {
+        "parent_class": "animal face"
+    },
+    "crab": {
+        "parent_class": "food"
+    },
+    "crayfish": {
+        "parent_class": "aquatic arthropod"
+    },
+    "crocodile": {
+        "parent_class": "food"
+    },
+    "crocodile head": {
+        "parent_class": "leather goods"
+    },
+    "cup": {
+        "parent_class": "drinking vessel"
+    },
+    "dalmatian": {
+        "parent_class": "pet"
+    },
+    "dollar bill": {
+        "parent_class": "currency"
+    },
+    "dolphin": {
+        "parent_class": "marine mammal"
+    },
+    "dragonfly": {
+        "parent_class": "insect repellent"
+    },
+    "electric guitar": {
+        "parent_class": "musical instrument"
+    },
+    "elephant": {
+        "parent_class": "animal"
+    },
+    "emu": {
+        "parent_class": "livestock"
+    },
+    "euphonium": {
+        "parent_class": "musical instrument"
+    },
+    "ewer": {
+        "parent_class": "vessel"
+    },
+    "ferry": {
+        "parent_class": "watercraft"
+    },
+    "flamingo": {
+        "parent_class": "ornament"
+    },
+    "flamingo head": {
+        "parent_class": "decoration"
+    },
+    "garfield": {
+        "parent_class": "comic strip character"
+    },
+    "gerenuk": {
+        "parent_class": "wildlife"
+    },
+    "gramophone": {
+        "parent_class": "audio playback device"
+    },
+    "grand piano": {
+        "parent_class": "musical instrument"
+    },
+    "hawksbill": {
+        "parent_class": "jewelry, ornaments"
+    },
+    "headphone": {
+        "parent_class": "audio device"
+    },
+    "hedgehog": {
+        "parent_class": "animal"
+    },
+    "helicopter": {
+        "parent_class": "aircraft"
+    },
+    "ibis": {
+        "parent_class": "bird"
+    },
+    "inline skate": {
+        "parent_class": "sports equipment"
+    },
+    "joshua tree": {
+        "parent_class": "plant"
+    },
+    "kangaroo": {
+        "parent_class": "animal"
+    },
+    "ketch": {
+        "parent_class": "condiment"
+    },
+    "lamp": {
+        "parent_class": "lighting device"
+    },
+    "laptop": {
+        "parent_class": "electronic device"
+    },
+    "llama": {
+        "parent_class": "livestock"
+    },
+    "lobster": {
+        "parent_class": "seafood"
+    },
+    "lotus": {
+        "parent_class": "flower"
+    },
+    "mandolin": {
+        "parent_class": "musical instrument"
+    },
+    "mayfly": {
+        "parent_class": "insect"
+    },
+    "menorah": {
+        "parent_class": "religious ceremonial object"
+    },
+    "metronome": {
+        "parent_class": "musical instrument"
+    },
+    "minaret": {
+        "parent_class": "religious architecture"
+    },
+    "nautilus": {
+        "parent_class": "marine mollusk"
+    },
+    "octopus": {
+        "parent_class": "food"
+    },
+    "okapi": {
+        "parent_class": "wildlife"
+    },
+    "pagoda": {
+        "parent_class": "religious structure"
+    },
+    "panda": {
+        "parent_class": "animal"
+    },
+    "pigeon": {
+        "parent_class": "bird"
+    },
+    "pizza": {
+        "parent_class": "food"
+    },
+    "platypus": {
+        "parent_class": "egg-laying mammal"
+    },
+    "pyramid": {
+        "parent_class": "monument"
+    },
+    "revolver": {
+        "parent_class": "firearm"
+    },
+    "rhino": {
+        "parent_class": "wildlife"
+    },
+    "rooster": {
+        "parent_class": "livestock"
+    },
+    "saxophone": {
+        "parent_class": "musical instrument"
+    },
+    "schooner": {
+        "parent_class": "watercraft"
+    },
+    "scissors": {
+        "parent_class": "cutting tool"
+    },
+    "scorpion": {
+        "parent_class": "weapon"
+    },
+    "sea horse": {
+        "parent_class": "marine animal"
+    },
+    "snoopy": {
+        "parent_class": "cartoon character"
+    },
+    "soccer ball": {
+        "parent_class": "sports equipment"
+    },
+    "stapler": {
+        "parent_class": "office supply"
+    },
+    "starfish": {
+        "parent_class": "marine animal"
+    },
+    "stegosaurus": {
+        "parent_class": "dinosaur"
+    },
+    "stop sign": {
+        "parent_class": "traffic control device"
+    },
+    "strawberry": {
+        "parent_class": "fruit"
+    },
+    "sunflower": {
+        "parent_class": "food crop"
+    },
+    "tick": {
+        "parent_class": "chair"
+    },
+    "trilobite": {
+        "parent_class": "fossil"
+    },
+    "umbrella": {
+        "parent_class": "household item"
+    },
+    "watch": {
+        "parent_class": "timekeeping device"
+    },
+    "water lilly": {
+        "parent_class": "plant"
+    },
+    "wheelchair": {
+        "parent_class": "mobility aid"
+    },
+    "wild cat": {
+        "parent_class": "wildlife"
+    },
+    "windsor chair": {
+        "parent_class": "furniture"
+    },
+    "wrench": {
+        "parent_class": "hand tool"
+    },
+    "yin yang": {
+        "parent_class": "balance scale"
+    }
+}

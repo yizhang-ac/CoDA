@@ -1,0 +1,32 @@
+{
+    "Annual Crop Land": {
+        "parent_class": "Cropland"
+    },
+    "Forest": {
+        "parent_class": "Natural"
+    },
+    "Herbaceous Vegetation Land": {
+        "parent_class": "Grassland"
+    },
+    "Highway or Road": {
+        "parent_class": "Transportation"
+    },
+    "Industrial Buildings": {
+        "parent_class": "Industrial Land Use"
+    },
+    "Pasture Land": {
+        "parent_class": "Agricultural Land"
+    },
+    "Permanent Crop Land": {
+        "parent_class": "Agricultural Land"
+    },
+    "Residential Buildings": {
+        "parent_class": "Residential"
+    },
+    "River": {
+        "parent_class": "Water body"
+    },
+    "Sea or Lake": {
+        "parent_class": "Water body"
+    }
+}

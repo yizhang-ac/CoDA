@@ -1,0 +1,305 @@
+{
+    "Apply Eye Makeup": {
+        "parent_class": "Personal grooming facial cosmetics"
+    },
+    "Apply Lipstick": {
+        "parent_class": "Personal grooming with cosmetics"
+    },
+    "Archery": {
+        "parent_class": "Sporting activity with bow"
+    },
+    "Baby Crawling": {
+        "parent_class": "Infant locomotion on ground"
+    },
+    "Balance Beam": {
+        "parent_class": "Gymnastics apparatus performance"
+    },
+    "Band Marching": {
+        "parent_class": "Human group movement coordination"
+    },
+    "Baseball Pitch": {
+        "parent_class": "Athlete throws ball"
+    },
+    "Basketball": {
+        "parent_class": "Player with ball"
+    },
+    "Basketball Dunk": {
+        "parent_class": "Athlete performing on hoop"
+    },
+    "Bench Press": {
+        "parent_class": "Strength training with equipment"
+    },
+    "Biking": {
+        "parent_class": "Physical activity with equipment"
+    },
+    "Billiards": {
+        "parent_class": "Cue sports cluster"
+    },
+    "Blow Dry Hair": {
+        "parent_class": "Personal grooming with tools"
+    },
+    "Blowing Candles": {
+        "parent_class": "Celebratory ritual action"
+    },
+    "Body Weight Squats": {
+        "parent_class": "Lower body strength training"
+    },
+    "Bowling": {
+        "parent_class": "Sports and recreation"
+    },
+    "Boxing Punching Bag": {
+        "parent_class": "Athlete training with equipment"
+    },
+    "Boxing Speed Bag": {
+        "parent_class": "Athletic training with equipment"
+    },
+    "Breast Stroke": {
+        "parent_class": "Swimming stroke technique"
+    },
+    "Brushing Teeth": {
+        "parent_class": "Personal hygiene self-care"
+    },
+    "Clean And Jerk": {
+        "parent_class": "Weightlifting barbell movement"
+    },
+    "Cliff Diving": {
+        "parent_class": "Extreme sports involving heights"
+    },
+    "Cricket Bowling": {
+        "parent_class": "Sports action with ball"
+    },
+    "Cricket Shot": {
+        "parent_class": "Batting in cricket"
+    },
+    "Cutting In Kitchen": {
+        "parent_class": "Food Preparation"
+    },
+    "Diving": {
+        "parent_class": "Athlete in water sport"
+    },
+    "Drumming": {
+        "parent_class": "Musical instrument performance"
+    },
+    "Fencing": {
+        "parent_class": "Sport combat with weapons"
+    },
+    "Field Hockey Penalty": {
+        "parent_class": "Player fouls opponent"
+    },
+    "Floor Gymnastics": {
+        "parent_class": "Athlete performs floor routine"
+    },
+    "Frisbee Catch": {
+        "parent_class": "Catching a flying disc"
+    },
+    "Front Crawl": {
+        "parent_class": "Swimming stroke technique"
+    },
+    "Golf Swing": {
+        "parent_class": "Athletic motion with equipment"
+    },
+    "Haircut": {
+        "parent_class": "Personal grooming service"
+    },
+    "Hammering": {
+        "parent_class": "Striking with tool"
+    },
+    "Hammer Throw": {
+        "parent_class": "Athlete throws hammer"
+    },
+    "Handstand Pushups": {
+        "parent_class": "Upper body pushing movement"
+    },
+    "Handstand Walking": {
+        "parent_class": "Bodyweight floor locomotion"
+    },
+    "Head Massage": {
+        "parent_class": "Self-care relaxation"
+    },
+    "High Jump": {
+        "parent_class": "Athletic jumping over bar"
+    },
+    "Horse Race": {
+        "parent_class": "Competition"
+    },
+    "Horse Riding": {
+        "parent_class": "Human riding animal"
+    },
+    "Hula Hoop": {
+        "parent_class": "Human spins hoop"
+    },
+    "Ice Dancing": {
+        "parent_class": "Human performer on ice"
+    },
+    "Javelin Throw": {
+        "parent_class": "Athlete throws projectile"
+    },
+    "Juggling Balls": {
+        "parent_class": "Object manipulation"
+    },
+    "Jumping Jack": {
+        "parent_class": "Physical exercise cluster"
+    },
+    "Jump Rope": {
+        "parent_class": "Physical activity with equipment"
+    },
+    "Kayaking": {
+        "parent_class": "Water sports and recreation"
+    },
+    "Knitting": {
+        "parent_class": "Crafting with yarn"
+    },
+    "Long Jump": {
+        "parent_class": "Athletic jumping event"
+    },
+    "Lunges": {
+        "parent_class": "Lower body exercise"
+    },
+    "Military Parade": {
+        "parent_class": "Military personnel marching before spectators"
+    },
+    "Mixing": {
+        "parent_class": "Food preparation"
+    },
+    "Mopping Floor": {
+        "parent_class": "Cleaning household surfaces"
+    },
+    "Nunchucks": {
+        "parent_class": "Wielding handheld weapons"
+    },
+    "Parallel Bars": {
+        "parent_class": "Gymnastics apparatus manipulation"
+    },
+    "Pizza Tossing": {
+        "parent_class": "Food preparation"
+    },
+    "Playing Cello": {
+        "parent_class": "Musical Instrument Performance"
+    },
+    "Playing Daf": {
+        "parent_class": "Musical Instrument Performance"
+    },
+    "Playing Dhol": {
+        "parent_class": "Musical Instrument Performance"
+    },
+    "Playing Flute": {
+        "parent_class": "Musical instrument performance"
+    },
+    "Playing Guitar": {
+        "parent_class": "Musical Instrument Performance"
+    },
+    "Playing Piano": {
+        "parent_class": "Musical Instrument Performance"
+    },
+    "Playing Sitar": {
+        "parent_class": "Musical Instrument Performance"
+    },
+    "Playing Tabla": {
+        "parent_class": "Musical Instrument Performance"
+    },
+    "Playing Violin": {
+        "parent_class": "Musical instrument performance"
+    },
+    "Pole Vault": {
+        "parent_class": "Athlete overcomes obstacle"
+    },
+    "Pommel Horse": {
+        "parent_class": "Athlete on apparatus"
+    },
+    "Pull Ups": {
+        "parent_class": "Upper body pulling exercise"
+    },
+    "Punch": {
+        "parent_class": "Physical interaction with objects"
+    },
+    "Push Ups": {
+        "parent_class": "Upper body strength exercise"
+    },
+    "Rafting": {
+        "parent_class": "Water sports recreation"
+    },
+    "Rock Climbing Indoor": {
+        "parent_class": "Individual scaling artificial walls"
+    },
+    "Rope Climbing": {
+        "parent_class": "Athletic upper body exercise"
+    },
+    "Rowing": {
+        "parent_class": "Human propels boat"
+    },
+    "Salsa Spin": {
+        "parent_class": "Partner dance with spins"
+    },
+    "Shaving Beard": {
+        "parent_class": "Personal grooming facial hair"
+    },
+    "Shotput": {
+        "parent_class": "Throwing object"
+    },
+    "Skate Boarding": {
+        "parent_class": "Individual maneuvers board on surface"
+    },
+    "Skiing": {
+        "parent_class": "Human sport on snow"
+    },
+    "Skijet": {
+        "parent_class": "Vehicle operation"
+    },
+    "Sky Diving": {
+        "parent_class": "Individual performs extreme sport"
+    },
+    "Soccer Juggling": {
+        "parent_class": "Individual manipulates ball"
+    },
+    "Soccer Penalty": {
+        "parent_class": "Athlete kicks ball"
+    },
+    "Still Rings": {
+        "parent_class": "Gymnastics equipment manipulation"
+    },
+    "Sumo Wrestling": {
+        "parent_class": "Athlete versus athlete combat"
+    },
+    "Surfing": {
+        "parent_class": "Water sports"
+    },
+    "Swing": {
+        "parent_class": "Human-object interaction"
+    },
+    "Table Tennis Shot": {
+        "parent_class": "Striking ball with paddle"
+    },
+    "Tai Chi": {
+        "parent_class": "Individual performing slow movements"
+    },
+    "Tennis Swing": {
+        "parent_class": "Player strikes ball"
+    },
+    "Throw Discus": {
+        "parent_class": "Athletics track and field"
+    },
+    "Trampoline Jumping": {
+        "parent_class": "Human on trampoline"
+    },
+    "Typing": {
+        "parent_class": "Human-Object Interaction"
+    },
+    "Uneven Bars": {
+        "parent_class": "Gymnastics apparatus manipulation"
+    },
+    "Volleyball Spiking": {
+        "parent_class": "Athlete striking ball"
+    },
+    "Walking With Dog": {
+        "parent_class": "Leisure with pet"
+    },
+    "Wall Pushups": {
+        "parent_class": "Upper body pushing exercise"
+    },
+    "Writing On Board": {
+        "parent_class": "Teaching or Presenting"
+    },
+    "Yo Yo": {
+        "parent_class": "Play with toy"
+    }
+}

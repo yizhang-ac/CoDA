@@ -1,0 +1,590 @@
+{
+    "2012 Audi TTS Coupe": {
+        "parent_class": "Sports coupe"
+    },
+    "2012 Acura TL Sedan": {
+        "parent_class": "Luxury midsize sedan"
+    },
+    "2007 Dodge Dakota Club Cab": {
+        "parent_class": "Compact pickup truck"
+    },
+    "2012 Hyundai Sonata Hybrid Sedan": {
+        "parent_class": "Hybrid Sedan"
+    },
+    "2012 Ford F-450 Super Duty Crew Cab": {
+        "parent_class": "Heavy-duty pickup truck"
+    },
+    "1993 Geo Metro Convertible": {
+        "parent_class": "Subcompact Convertible"
+    },
+    "2012 Dodge Journey SUV": {
+        "parent_class": "Crossover SUV"
+    },
+    "2012 Dodge Charger Sedan": {
+        "parent_class": "Full-size sedan"
+    },
+    "2012 Mitsubishi Lancer Sedan": {
+        "parent_class": "Compact Sedan"
+    },
+    "2012 Chevrolet Traverse SUV": {
+        "parent_class": "Full-size crossover SUV"
+    },
+    "2012 Buick Verano Sedan": {
+        "parent_class": "Compact Luxury Sedan"
+    },
+    "2012 Toyota Sequoia SUV": {
+        "parent_class": "Full-size SUV"
+    },
+    "2007 Hyundai Elantra Sedan": {
+        "parent_class": "Compact Sedan"
+    },
+    "1997 Dodge Caravan Minivan": {
+        "parent_class": "Minivan"
+    },
+    "2012 Volvo C30 Hatchback": {
+        "parent_class": "Sport Compact Hatchback"
+    },
+    "1999 Plymouth Neon Coupe": {
+        "parent_class": "Compact car"
+    },
+    "2007 Chevrolet Malibu Sedan": {
+        "parent_class": "Mid-size sedan"
+    },
+    "2012 Volkswagen Beetle Hatchback": {
+        "parent_class": "Compact Hatchback"
+    },
+    "2007 Chevrolet Corvette Ron Fellows Edition Z06": {
+        "parent_class": "Sports car"
+    },
+    "2010 Chrysler 300 SRT-8": {
+        "parent_class": "Full-size performance sedan"
+    },
+    "2010 BMW M6 Convertible": {
+        "parent_class": "Sports car"
+    },
+    "2012 GMC Yukon Hybrid SUV": {
+        "parent_class": "Full-size hybrid SUV"
+    },
+    "2012 Nissan Juke Hatchback": {
+        "parent_class": "Subcompact Crossover SUV"
+    },
+    "1993 Volvo 240 Sedan": {
+        "parent_class": "Full-size sedan"
+    },
+    "2012 Suzuki SX4 Sedan": {
+        "parent_class": "Compact sedan"
+    },
+    "2010 Dodge Ram Pickup 3500 Crew Cab": {
+        "parent_class": "Heavy-duty pickup truck"
+    },
+    "2009 Spyker C8 Coupe": {
+        "parent_class": "Sports car"
+    },
+    "2012 Land Rover Range Rover SUV": {
+        "parent_class": "Luxury full-size SUV"
+    },
+    "2012 Hyundai Elantra Touring Hatchback": {
+        "parent_class": "Compact Wagon"
+    },
+    "2010 Chevrolet Cobalt SS": {
+        "parent_class": "Sport compact car"
+    },
+    "2012 Hyundai Veracruz SUV": {
+        "parent_class": "Mid-size crossover SUV"
+    },
+    "2012 Ferrari 458 Italia Coupe": {
+        "parent_class": "Sports car"
+    },
+    "2012 BMW Z4 Convertible": {
+        "parent_class": "Sports car"
+    },
+    "2009 Dodge Charger SRT-8": {
+        "parent_class": "Muscle car"
+    },
+    "2012 Fisker Karma Sedan": {
+        "parent_class": "Luxury plug-in hybrid sedan"
+    },
+    "2011 Infiniti QX56 SUV": {
+        "parent_class": "Full-size luxury SUV"
+    },
+    "2012 Audi A5 Coupe": {
+        "parent_class": "Coupe"
+    },
+    "1991 Volkswagen Golf Hatchback": {
+        "parent_class": "Compact Hatchback"
+    },
+    "2012 GMC Savana Van": {
+        "parent_class": "Full-size van"
+    },
+    "2012 Audi TT RS Coupe": {
+        "parent_class": "Sports Coupe"
+    },
+    "2012 Rolls-Royce Phantom Sedan": {
+        "parent_class": "Ultra-luxury full-size sedan"
+    },
+    "2012 Porsche Panamera Sedan": {
+        "parent_class": "Luxury Sports Sedan"
+    },
+    "2012 Bentley Continental GT Coupe": {
+        "parent_class": "Grand Tourer"
+    },
+    "2012 Jeep Grand Cherokee SUV": {
+        "parent_class": "Mid-size SUV"
+    },
+    "2012 Audi R8 Coupe": {
+        "parent_class": "Sports car"
+    },
+    "2007 Cadillac Escalade EXT Crew Cab": {
+        "parent_class": "Pickup truck"
+    },
+    "2007 Bentley Continental Flying Spur Sedan": {
+        "parent_class": "Luxury Full-Size Sedan"
+    },
+    "2012 Chevrolet Avalanche Crew Cab": {
+        "parent_class": "Full-size pickup truck"
+    },
+    "2010 Dodge Dakota Crew Cab": {
+        "parent_class": "Mid-size pickup truck"
+    },
+    "2010 HUMMER H3T Crew Cab": {
+        "parent_class": "Pickup Truck"
+    },
+    "2007 Ford F-150 Regular Cab": {
+        "parent_class": "Full-size pickup truck"
+    },
+    "2012 Volkswagen Golf Hatchback": {
+        "parent_class": "Compact Hatchback"
+    },
+    "2012 Ferrari FF Coupe": {
+        "parent_class": "Grand Tourer"
+    },
+    "2012 Toyota Camry Sedan": {
+        "parent_class": "Midsize Sedan"
+    },
+    "2012 Aston Martin V8 Vantage Convertible": {
+        "parent_class": "Sports car"
+    },
+    "1994 Audi 100 Sedan": {
+        "parent_class": "Full-size luxury sedan"
+    },
+    "2011 Ford Ranger SuperCab": {
+        "parent_class": "Pickup Truck"
+    },
+    "2012 GMC Canyon Extended Cab": {
+        "parent_class": "Compact Pickup Truck"
+    },
+    "2012 Acura TSX Sedan": {
+        "parent_class": "Entry-level luxury sedan"
+    },
+    "2012 BMW 3 Series Sedan": {
+        "parent_class": "Compact Executive Sedan"
+    },
+    "2012 Honda Odyssey Minivan": {
+        "parent_class": "Minivan"
+    },
+    "2012 Dodge Durango SUV": {
+        "parent_class": "Full-size SUV"
+    },
+    "2012 Toyota Corolla Sedan": {
+        "parent_class": "Compact Sedan"
+    },
+    "2012 Chevrolet Camaro Convertible": {
+        "parent_class": "Sports car"
+    },
+    "2012 Ford Edge SUV": {
+        "parent_class": "Mid-size crossover SUV"
+    },
+    "2007 Bentley Continental GT Coupe": {
+        "parent_class": "Grand Tourer"
+    },
+    "1994 Audi 100 Wagon": {
+        "parent_class": "Station Wagon"
+    },
+    "2012 Ford E-Series Wagon Van": {
+        "parent_class": "Full-size van"
+    },
+    "2012 Jeep Patriot SUV": {
+        "parent_class": "Compact SUV"
+    },
+    "2011 Audi S6 Sedan": {
+        "parent_class": "Performance Sedan"
+    },
+    "2012 Mercedes-Benz S-Class Sedan": {
+        "parent_class": "Luxury Full-Size Sedan"
+    },
+    "2012 Hyundai Sonata Sedan": {
+        "parent_class": "Midsize Sedan"
+    },
+    "2012 Rolls-Royce Phantom Drophead Coupe Convertible": {
+        "parent_class": "Luxury convertible coupe"
+    },
+    "2006 Ford GT Coupe": {
+        "parent_class": "Supercar"
+    },
+    "2012 Cadillac CTS-V Sedan": {
+        "parent_class": "High-performance luxury sedan"
+    },
+    "2012 BMW X3 SUV": {
+        "parent_class": "Compact luxury SUV"
+    },
+    "2007 Chevrolet Express Van": {
+        "parent_class": "Full-size van"
+    },
+    "2007 Chevrolet Impala Sedan": {
+        "parent_class": "Full-size sedan"
+    },
+    "2012 Chevrolet Silverado 1500 Extended Cab": {
+        "parent_class": "Full-size pickup truck"
+    },
+    "2012 Mercedes-Benz C-Class Sedan": {
+        "parent_class": "Luxury Compact Sedan"
+    },
+    "2012 Hyundai Santa Fe SUV": {
+        "parent_class": "SUV"
+    },
+    "2009 Dodge Sprinter Cargo Van": {
+        "parent_class": "Commercial Van"
+    },
+    "2012 GMC Acadia SUV": {
+        "parent_class": "Full-size crossover SUV"
+    },
+    "2012 Hyundai Genesis Sedan": {
+        "parent_class": "Luxury Sedan"
+    },
+    "2012 Dodge Caliber Wagon": {
+        "parent_class": "Compact Crossover"
+    },
+    "2012 Jeep Liberty SUV": {
+        "parent_class": "Compact SUV"
+    },
+    "1993 Mercedes-Benz 300-Class Convertible": {
+        "parent_class": "Luxury Convertible"
+    },
+    "2009 Ford Expedition EL SUV": {
+        "parent_class": "Full-size SUV"
+    },
+    "2012 BMW 1 Series Coupe": {
+        "parent_class": "Sports Coupe"
+    },
+    "2012 Jaguar XK XKR": {
+        "parent_class": "Grand Tourer"
+    },
+    "2012 Hyundai Accent Sedan": {
+        "parent_class": "Subcompact Sedan"
+    },
+    "2008 Isuzu Ascender SUV": {
+        "parent_class": "Full-size SUV"
+    },
+    "1998 Nissan 240SX Coupe": {
+        "parent_class": "Sports Coupe"
+    },
+    "2012 Scion xD Hatchback": {
+        "parent_class": "Subcompact Hatchback"
+    },
+    "2012 Chevrolet Corvette ZR1": {
+        "parent_class": "Sports car"
+    },
+    "2009 Bentley Arnage Sedan": {
+        "parent_class": "Luxury Full-Size Sedan"
+    },
+    "2010 Chevrolet HHR SS": {
+        "parent_class": "Compact wagon"
+    },
+    "2012 Land Rover LR2 SUV": {
+        "parent_class": "Compact luxury SUV"
+    },
+    "2012 Hyundai Azera Sedan": {
+        "parent_class": "Full-size sedan"
+    },
+    "2009 Chrysler Aspen SUV": {
+        "parent_class": "Full-size SUV"
+    },
+    "2012 Buick Regal GS": {
+        "parent_class": "Sport Sedan"
+    },
+    "2012 BMW 3 Series Wagon": {
+        "parent_class": "Sports Wagon"
+    },
+    "2012 Jeep Compass SUV": {
+        "parent_class": "Compact SUV"
+    },
+    "2012 Ram C/V Cargo Van Minivan": {
+        "parent_class": "Cargo Van"
+    },
+    "2009 Spyker C8 Convertible": {
+        "parent_class": "Sports car"
+    },
+    "2007 Audi S4 Sedan": {
+        "parent_class": "Sports Sedan"
+    },
+    "2012 Rolls-Royce Ghost Sedan": {
+        "parent_class": "Luxury Full-Size Sedan"
+    },
+    "2000 AM General Hummer SUV": {
+        "parent_class": "Full-size SUV"
+    },
+    "2007 Ford Freestar Minivan": {
+        "parent_class": "Minivan"
+    },
+    "2011 Bentley Mulsanne Sedan": {
+        "parent_class": "Luxury Full-Size Sedan"
+    },
+    "2011 Audi TT Hatchback": {
+        "parent_class": "Sports Coupe"
+    },
+    "2009 Mercedes-Benz SL-Class Coupe": {
+        "parent_class": "Luxury sports coupe"
+    },
+    "2012 Chevrolet Silverado 1500 Hybrid Crew Cab": {
+        "parent_class": "Full-size hybrid pickup truck"
+    },
+    "2012 Buick Enclave SUV": {
+        "parent_class": "Full-size luxury SUV"
+    },
+    "2009 Chevrolet TrailBlazer SS": {
+        "parent_class": "Performance SUV"
+    },
+    "2009 HUMMER H2 SUT Crew Cab": {
+        "parent_class": "Full-size luxury SUV"
+    },
+    "2012 McLaren MP4-12C Coupe": {
+        "parent_class": "Supercar"
+    },
+    "2011 Dodge Challenger SRT8": {
+        "parent_class": "Muscle car"
+    },
+    "2012 Suzuki SX4 Hatchback": {
+        "parent_class": "Subcompact Crossover"
+    },
+    "2009 Bugatti Veyron 16.4 Convertible": {
+        "parent_class": "Supercar"
+    },
+    "2012 Toyota 4Runner SUV": {
+        "parent_class": "SUV"
+    },
+    "2007 Buick Rainier SUV": {
+        "parent_class": "Midsize luxury SUV"
+    },
+    "2010 Chrysler Sebring Convertible": {
+        "parent_class": "Convertible"
+    },
+    "2001 Acura Integra Type R": {
+        "parent_class": "Sport compact car"
+    },
+    "1994 Audi V8 Sedan": {
+        "parent_class": "Full-size luxury sedan"
+    },
+    "2008 Audi RS 4 Convertible": {
+        "parent_class": "Sports Convertible"
+    },
+    "2012 Honda Accord Coupe": {
+        "parent_class": "Coupe"
+    },
+    "2012 Audi S4 Sedan": {
+        "parent_class": "Sport Sedan"
+    },
+    "2012 Aston Martin Virage Coupe": {
+        "parent_class": "Grand Tourer"
+    },
+    "2012 Chevrolet Sonic Sedan": {
+        "parent_class": "Subcompact Sedan"
+    },
+    "2007 Chevrolet Monte Carlo Coupe": {
+        "parent_class": "Sport coupe"
+    },
+    "2007 Volvo XC90 SUV": {
+        "parent_class": "SUV"
+    },
+    "2007 Ford Mustang Convertible": {
+        "parent_class": "Sports car"
+    },
+    "2012 Aston Martin Virage Convertible": {
+        "parent_class": "Grand Tourer"
+    },
+    "2012 smart fortwo Convertible": {
+        "parent_class": "Microcar"
+    },
+    "2012 FIAT 500 Abarth": {
+        "parent_class": "Sport compact car"
+    },
+    "2012 Infiniti G Coupe IPL": {
+        "parent_class": "Sport Coupe"
+    },
+    "2007 Dodge Caliber Wagon": {
+        "parent_class": "Compact Crossover"
+    },
+    "2012 Hyundai Tucson SUV": {
+        "parent_class": "Compact SUV"
+    },
+    "2012 Acura ZDX Hatchback": {
+        "parent_class": "Crossover Coupe"
+    },
+    "2012 BMW ActiveHybrid 5 Sedan": {
+        "parent_class": "Luxury Hybrid Sedan"
+    },
+    "2012 Ferrari California Convertible": {
+        "parent_class": "Grand Tourer"
+    },
+    "2012 Nissan Leaf Hatchback": {
+        "parent_class": "Compact Hatchback"
+    },
+    "2001 Lamborghini Diablo Coupe": {
+        "parent_class": "Supercar"
+    },
+    "2012 Audi S5 Convertible": {
+        "parent_class": "Luxury sports convertible"
+    },
+    "2007 BMW 6 Series Convertible": {
+        "parent_class": "Luxury Sports Convertible"
+    },
+    "2012 Ferrari 458 Italia Convertible": {
+        "parent_class": "Sports car"
+    },
+    "2012 Chevrolet Silverado 2500HD Regular Cab": {
+        "parent_class": "Full-size heavy-duty pickup"
+    },
+    "2012 Chevrolet Corvette Convertible": {
+        "parent_class": "Sports car"
+    },
+    "2009 Bugatti Veyron 16.4 Coupe": {
+        "parent_class": "Supercar"
+    },
+    "2012 Tesla Model S Sedan": {
+        "parent_class": "Full-size luxury sedan"
+    },
+    "2012 FIAT 500 Convertible": {
+        "parent_class": "City car convertible"
+    },
+    "2012 Hyundai Veloster Hatchback": {
+        "parent_class": "Sporty Compact Hatchback"
+    },
+    "2011 Lincoln Town Car Sedan": {
+        "parent_class": "Full-size luxury sedan"
+    },
+    "2012 Lamborghini Aventador Coupe": {
+        "parent_class": "Supercar"
+    },
+    "2009 Dodge Ram Pickup 3500 Quad Cab": {
+        "parent_class": "Heavy-duty pickup truck"
+    },
+    "2012 Nissan NV Passenger Van": {
+        "parent_class": "Full-size passenger van"
+    },
+    "2007 Honda Odyssey Minivan": {
+        "parent_class": "Minivan"
+    },
+    "2012 Maybach Landaulet Convertible": {
+        "parent_class": "Ultra-luxury convertible sedan"
+    },
+    "2012 Chevrolet Silverado 1500 Regular Cab": {
+        "parent_class": "Full-size pickup truck"
+    },
+    "2012 Suzuki Kizashi Sedan": {
+        "parent_class": "Compact Sedan"
+    },
+    "2012 Chevrolet Tahoe Hybrid SUV": {
+        "parent_class": "Full-size hybrid SUV"
+    },
+    "2012 Mercedes-Benz Sprinter Van": {
+        "parent_class": "Commercial Van"
+    },
+    "2007 Suzuki Aerio Sedan": {
+        "parent_class": "Subcompact sedan"
+    },
+    "2012 Audi S5 Coupe": {
+        "parent_class": "Sports Coupe"
+    },
+    "2012 Aston Martin V8 Vantage Coupe": {
+        "parent_class": "Sports car"
+    },
+    "2010 Chevrolet Malibu Hybrid Sedan": {
+        "parent_class": "Hybrid Sedan"
+    },
+    "2012 Ford F-150 Regular Cab": {
+        "parent_class": "Full-size pickup truck"
+    },
+    "2012 Ford Fiesta Sedan": {
+        "parent_class": "Subcompact Sedan"
+    },
+    "2007 Ford Focus Sedan": {
+        "parent_class": "Compact Car"
+    },
+    "2012 Bentley Continental Supersports Conv. Convertible": {
+        "parent_class": "Luxury Grand Tourer Convertible"
+    },
+    "2007 Chevrolet Silverado 1500 Classic Extended Cab": {
+        "parent_class": "Full-size pickup truck"
+    },
+    "2007 BMW X5 SUV": {
+        "parent_class": "Mid-size luxury SUV"
+    },
+    "2012 Jeep Wrangler SUV": {
+        "parent_class": "SUV"
+    },
+    "2008 Acura TL Type-S": {
+        "parent_class": "Sports sedan"
+    },
+    "2008 Chrysler Crossfire Convertible": {
+        "parent_class": "Sports car"
+    },
+    "2012 Lamborghini Gallardo LP 570-4 Superleggera": {
+        "parent_class": "Supercar"
+    },
+    "2012 Mercedes-Benz E-Class Sedan": {
+        "parent_class": "Luxury midsize sedan"
+    },
+    "2007 Chevrolet Express Cargo Van": {
+        "parent_class": "Full-size van"
+    },
+    "2012 GMC Terrain SUV": {
+        "parent_class": "Compact SUV"
+    },
+    "2008 Dodge Magnum Wagon": {
+        "parent_class": "Sport wagon"
+    },
+    "2012 Honda Accord Sedan": {
+        "parent_class": "Midsize Sedan"
+    },
+    "2008 Chrysler PT Cruiser Convertible": {
+        "parent_class": "Retro compact convertible"
+    },
+    "2011 Mazda Tribute SUV": {
+        "parent_class": "Compact SUV"
+    },
+    "2012 BMW M3 Coupe": {
+        "parent_class": "Sports Coupe"
+    },
+    "1998 Eagle Talon Hatchback": {
+        "parent_class": "Sports Coupe"
+    },
+    "2002 Daewoo Nubira Wagon": {
+        "parent_class": "Compact Wagon"
+    },
+    "2012 BMW X6 SUV": {
+        "parent_class": "Sports Activity Coupe"
+    },
+    "2008 Lamborghini Reventon Coupe": {
+        "parent_class": "Supercar"
+    },
+    "2012 Cadillac SRX SUV": {
+        "parent_class": "Luxury midsize crossover SUV"
+    },
+    "2012 MINI Cooper Roadster Convertible": {
+        "parent_class": "Sports car"
+    },
+    "2012 Acura RL Sedan": {
+        "parent_class": "Luxury Full-Size Sedan"
+    },
+    "2012 BMW 1 Series Convertible": {
+        "parent_class": "Sports Convertible"
+    },
+    "2007 Dodge Durango SUV": {
+        "parent_class": "Full-size SUV"
+    },
+    "2010 BMW M5 Sedan": {
+        "parent_class": "High-performance sports sedan"
+    },
+    "2012 Chrysler Town and Country Minivan": {
+        "parent_class": "Minivan"
+    }
+}
