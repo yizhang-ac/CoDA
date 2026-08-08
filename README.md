@@ -48,7 +48,7 @@ CoDA is implemented on top of a lightly modified [Dassl.pytorch](https://github.
 ### Create a conda environment
 
 ```bash
-conda create -n coda python=3.7
+conda create -n coda python=3.9
 ```
 
 ### Activate the environment
