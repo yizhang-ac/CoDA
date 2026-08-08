@@ -120,7 +120,5 @@ This project builds on [CLIP](https://github.com/openai/CLIP) and [Dassl.pytorch
 For questions about CoDA, please contact:
 
 - Yi Zhang: `yizhang.cv.ac@gmail.com`
-- Xiaoxu Li: `lixiaoxu@lut.edu.cn`
-- Zhanyu Ma: `mazhanyu@bupt.edu.cn`
 
 Project repository: <https://github.com/yizhang-ac/CoDA>
